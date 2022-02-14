@@ -15,6 +15,16 @@ Full [CV](http://kupske.github.io/files/CV_kupske.pdf){:target="_blank"}
 
 ---
 
+## Experience and Academic Appointments
+
+- 2017--*current*: **Full Professor (with tenure) of English and English/Portuguese Phonetics and Phonology** at the Federal University of Bahia, Salvador, Brazil, in the Department of English Studies
+- 2012--2017: **Professor of English and English Linguistics** at the Community University of Chapecó, Chapecó, Brazil
+- 2014--2015: **Visiting Researcher** at the University College London, London, England
+- 2012--2017: **Professor of English and English Linguistics** at the Community University of Chapecó, Chapecó, Brazil
+- 2010--2011: **Substitute Professor of English** Federal University of Santa Maria, Santa Maria - Brazil
+- 2004--2007: **Teacher of English as a Foreign Language** at diferent language institute
+
+
 ## Education
 - **PhD in (Psycho)Linguistics**, Federal University of Rio Grande do Sul, Porto Alegre - Brazil, 2016
   - Title: Imigração, Atrito e Complexidade: a produção das oclusivas surdas iniciais do inglês e do português por brasileiros residentes em Londre
@@ -22,15 +32,6 @@ Full [CV](http://kupske.github.io/files/CV_kupske.pdf){:target="_blank"}
   - Title: Opacidade Fonológica: uma solução via Teoria da Otimidade Conexionista para um problema cartesiano
 - **BA in Language Sciencese**, University of Nottingham, Nottingham - England, 2008
 - **Lic. in Modern Languages (English and English Literature)**, Federal University of Santa Maria, Santa Maria - Brazil 2007
-
-## Experience
-
-- 2017--*current*: ** Full Professor (with tenure) of English and English/Portuguese Phonetics and Phonology** at the Federal University of Bahia, Salvador, Brazil, in the Department of English Studies
-- 2012--2017: **Professor of English and English Linguistics** at the Community University of Chapecó, Chapecó, Brazil
-- 2014--2015: **Visiting Researcher** at the University College London, London, England
-- 2012--2017: **Professor of English and English Linguistics** at the Community University of Chapecó, Chapecó, Brazil
-- 2010--2011: **Substitute Professor of English** Federal University of Santa Maria, Santa Maria - Brazil
-- 2004--2007: **Teacher of English as a Foreign Language** at diferent language institutes
 
 ---
 
