@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+**UNDER CONSTRUCTION**
 Full professor (with tenure) of Phonetics and Phonology and Second Language Development, Department of English, [Universidade Federal da Bahia](https://www.ufba.br){:target="_blank"}, Brazil.
 
 Professor at the [Graduate Program in Language and Culture (PPGLinC)](http://www.ppglinc.ufba.br/){:target="_blank"}, Universidade Federal da Bahia, Brazil.
