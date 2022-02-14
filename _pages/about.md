@@ -25,7 +25,7 @@ I am interested in supervising **undergraduate and graduate (MA and Doctorate) s
 <br />
 <br />
 
-<a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes-azul-2.png" width="100" height="100"></a><a href="https://www.researchgate.net/profile/Felipe-Kupske" target="_blank"><img src="/images/rg.png" width="70" height="70"></a><a href="https://www.zotero.org/kupske" target="_blank"><img src="/images/zotero.png" width="80" height="80"></a><a href="	osf.io/rabw7" target="_blank"><img src="/images/osf.png" width="80" height="80"></a>
+<a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes-azul-2.png" width="100" height="100"></a><a href="https://www.researchgate.net/profile/Felipe-Kupske" target="_blank"><img src="/images/rg.png" width="70" height="70"></a><a href="https://www.zotero.org/kupske" target="_blank"><img src="/images/zotero.png" width="80" height="80"></a><a href="osf.io/rabw7" target="_blank"><img src="/images/osf.png" width="80" height="80"></a>
 
 <br />
 <br />
