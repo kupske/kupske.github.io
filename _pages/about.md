@@ -19,12 +19,16 @@ I currently lecture in *English Phonetics and Phonology, Second Language Acquisi
 I am interested in supervising **undergraduate and graduate (MA and Doctorate) students** at [PPGlinC](http://www.ppglinc.ufba.br/){:target="_blank"} in the above areas, as well as in Phonetics and Phonology applied to language teaching. 
 
 
-<a href="https://www.researchgate.net/profile/Felipe-Kupske" target="_blank"><img src="/images/rg.png" style="float: left; width: 8%; margin-right: 2%; margin-bottom: 0.5em;"></a><a href="https://www.zotero.org/kupske" target="_blank"><img src="/images/zotero.png" style="float: left; width: 8%; margin-right: 2%; margin-bottom: 0.5em;"></a><a href="	osf.io/rabw7" target="_blank"><img src="/images/osf.png" style="float: left; width: 5%; margin-right: 1%; margin-bottom: 0.5em;"></a><a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes-azul-2.png" style="float: left; width: 8%; margin-right: 2%; margin-bottom: 0.5em; width="140" height="140"></a>
+<a href="https://www.researchgate.net/profile/Felipe-Kupske" target="_blank"><img src="/images/rg.png" style="float: left; width: 8%; margin-right: 2%; margin-bottom: 0.5em;"></a><a href="https://www.zotero.org/kupske" target="_blank"><img src="/images/zotero.png" style="float: left; width: 8%; margin-right: 2%; margin-bottom: 0.5em;"></a><a href="	osf.io/rabw7" target="_blank"><img src="/images/osf.png" style="float: left; width: 5%; margin-right: 1%; margin-bottom: 0.5em;"></a><a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes-azul-2.png" style="float: left; width: 8%; margin-right: 2%; margin-bottom: 0.5em"></a>
 
 
 <br />
 <br />
 
+</a><a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes-azul-2.png" width="100" height="100"></a>
+
+<br />
+<br />
 # News:
 
 <img align="right" src="/images/livro2021.png" width="140" height="140" alt="Kupske et al. (2021)">
