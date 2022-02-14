@@ -14,7 +14,7 @@ Professor at the [Graduate Program in Language and Culture (PPGLinC)](http://www
 
 Director of the Speech Sciences Laboratory (LaFALA-UFBA) and the Center for Bilingualism and Complexity Studies.
 
-I currently lecture in *English Phonetics and Phonology, Second Language Acquisition and Linguistic Theory*. My studies address the adaptability (development and attrition/drift) of native and nonnative speech perception and production over lifespan. By drawing on theories and methodologies from Complex Dynamic Systems Theory, Psycholinguistics, Laboratory Phonology, Experimental Phonetics and Sociophonetics, my research aims to investigate the impact of L2 development on L1 speech. I am interested in Lab. Phonology and Acoustic Phonetics and Bilingualism in general. 
+I currently lecture in *English Phonetics and Phonology, Second Language Acquisition and Linguistic Theory*. My studies address the adaptability (development and attrition/drift) of native and nonnative speech perception and production over lifespan. By drawing on theories and methodologies from Complex Dynamic Systems Theory, Psycholinguistics, Laboratory Phonology, Experimental Phonetics and Sociophonetics, my research aims to investigate the impact of L2 development on L1 speech. I am interested in Lab. Phonology, Acoustic Phonetics and Bilingualism in general. 
 
 I am interested in supervising **undergraduate and graduate (MA and Doctorate) students** at [PPGlinC](http://www.ppglinc.ufba.br/){:target="_blank"} in the above areas, as well as in Phonetics and Phonology applied to language teaching. 
 
