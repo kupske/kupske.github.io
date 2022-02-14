@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ronaldo Lima Jr."
+title                    : "Felipe F. Kupske"
 title_separator          : "-"
-name                     : &name "Ronaldo Lima Jr."
+name                     : &name "Felipe F. Kupske"
 description              : &description "personal description"
 url                      : https://ronaldolimajr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ronaldolimajr/ronaldolimajr.github.io"
+repository               : "kupske/kupske.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ronaldo Lima Jr."
+  name             : "Felipe F. Kupske"
   avatar           : "profile.png"
-  bio              : "PhD in Linguistics | Professor of Phonetics and Phonology"
-  location         : "Fortaleza, CE, Brazil"
-  employer         : "Federal University of Ceará"
+  bio              : "PhD in Linguistics | Full Professor of Phonetics and Phonology and Second Language Developmennt"
+  location         : "Salvaroe, BA, Brazil"
+  employer         : "Federal University of Bahia"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=Y3LM_pUAAAAJ&hl=pt-BR"
-  email            : "ronaldojr@ufc.br"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com.br/citations?hl=en&user=fUWfIvsAAAAJ"
+  email            : "kupske@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Felipe-Kupske"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ronaldolimajr"
+  github           : "kupske"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "felipekupske"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-8610-0306"
+  orcid            : "https://orcid.org/0000-0002-0616-612X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCErHiEhguAkOCJe285Si6Ew"
+  youtube          : 
   wikipedia        : 
 
 
