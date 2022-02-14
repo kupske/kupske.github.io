@@ -19,7 +19,7 @@ I currently lecture in *English Phonetics and Phonology, Second Language Acquisi
 I am interested in supervising **undergraduate and graduate (MA and Doctorate) students** at [PPGlinC](http://www.ppglinc.ufba.br/){:target="_blank"} in the above areas, as well as in Phonetics and Phonology applied to language teaching. 
 
 
-<a href="	osf.io/rabw7" target="_blank"><img src="/images/osf.png" style="float: left; width: 5%; margin-right: 1%; margin-bottom: 0.5em;"></a><a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes-azul-2.png" style="float: left; width: 8%; margin-right: 2%; margin-bottom: 0.5em;"></a><a href="https://www.researchgate.net/profile/Felipe-Kupske" target="_blank"><img src="/images/rg.png" style="float: left; width: 8%; margin-right: 2%; margin-bottom: 0.5em;"></a>
+<a href="https://www.researchgate.net/profile/Felipe-Kupske" target="_blank"><img src="/images/rg.png" style="float: left; width: 8%; margin-right: 2%; margin-bottom: 0.5em;"></a><a href="	osf.io/rabw7" target="_blank"><img src="/images/osf.png" style="float: left; width: 5%; margin-right: 1%; margin-bottom: 0.5em;"></a><a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes-azul-2.png" style="float: left; width: 8%; margin-right: 2%; margin-bottom: 0.5em;"></a>
 
 
 <br />
@@ -28,7 +28,7 @@ I am interested in supervising **undergraduate and graduate (MA and Doctorate) s
 # News:
 
 <img align="left" src="/images/book.jpeg" align = "center" width="200" height="200" alt="Kupske et al. (2021)">
-The book I co-organized on the study of nonnative sounds is now available. 
+Our book on the study of nonnative sounds is available. 
 <br clear="left"/>
 
 **Kupske, F. F.**, U. K. Alves & R. M. Lima Jr. (Eds.) (2021). [Investigando os sons de línguas não nativas: uma introdução](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"} *(Investigating the sounds of non-native languages: an introduction)*, Campinas-SP: Editora da Abralin.
