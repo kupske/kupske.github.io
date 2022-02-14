@@ -2,7 +2,6 @@
 main:
   - title: "CV"
     url: /cv/
-
  - title: "Publications"
    url: /publications/  
    
@@ -12,8 +11,6 @@ main:
   #- title: "Resources"
   #  url: /resources/    
   
-  
-   
   #- title: "Talks and Workshops"
   # url: /talks/    
    
