@@ -17,7 +17,7 @@ Director of the Speech Sciences Laboratory (LaFALA-UFBA) and the Center for Bili
 I teach courses related to English phonetics and phonology, second language acquisition and linguistic theory. My main activities address the development, the attrition and the interaction between speech perception and production, drawing on ideas from sociophonetics and experimental phonetics. My current research aims to investigate language attrition with a focus on how bilinguals change their abilities to produce and perceive their L1 in L2‐dominant settings.
 
 
-<a href="https://osf.io/32dv8/" target="_blank"><img src="/images/osf.png" style="float: left; width: 5%; margin-right: 1%; margin-bottom: 0.5em;"></a><a href="http://lattes.cnpq.br/9111629117384735" target="_blank"><img src="/images/lattes-azul-2.png" style="float: left; width: 8%; margin-right: 2%; margin-bottom: 0.5em;"></a>
+<a href="	osf.io/rabw7" target="_blank"><img src="/images/osf.png" style="float: left; width: 5%; margin-right: 1%; margin-bottom: 0.5em;"></a><a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes-azul-2.png" style="float: left; width: 8%; margin-right: 2%; margin-bottom: 0.5em;"></a>
 
 
 <br />
