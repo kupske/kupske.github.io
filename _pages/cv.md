@@ -7,12 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Full [CV](http://kupske.github.io/files/CV_kupske.pdf){:target="_blank"}
-
-[Orcid](https://orcid.org/0000-0002-0616-612X){:target="_blank"}
-
-[Lattes](http://lattes.cnpq.br/5896539533884923){:target="_blank"}
-
+<a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes.png" width="60" height="60"></a><a href="https://www.researchgate.net/profile/Felipe-Kupske" target="_blank"><img src="/images/rg.png" width="56" height="56"></a><a href="osf.io/rabw7" target="_blank"><img src="/images/osf.png" width="60" height="60"></a>
 ---
 
 ## Experience and Academic Appointments
