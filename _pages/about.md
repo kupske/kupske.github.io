@@ -25,15 +25,16 @@ I am interested in supervising **undergraduate and graduate (MA and Doctorate) s
 <br />
 <br />
 
-<a href="https://www.researchgate.net/profile/Felipe-Kupske" target="_blank"><img src="/images/rg.png" width="70" height="70"></a><a href="https://www.zotero.org/kupske" target="_blank"><img src="/images/zotero.png" width="80" height="80"></a><a href="	osf.io/rabw7" target="_blank"><img src="/images/osf.png" width="80" height="80"></a><a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes-azul-2.png" width="100" height="100"></a>
+<a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes-azul-2.png" width="100" height="100"></a><a href="https://www.researchgate.net/profile/Felipe-Kupske" target="_blank"><img src="/images/rg.png" width="70" height="70"></a><a href="https://www.zotero.org/kupske" target="_blank"><img src="/images/zotero.png" width="80" height="80"></a><a href="	osf.io/rabw7" target="_blank"><img src="/images/osf.png" width="80" height="80"></a>
 
 <br />
 <br />
 # News:
 
-<img align="right" src="/images/livro2021.png" width="140" height="140" alt="Kupske et al. (2021)">
+<img align="right" src="/images/livro2021.png" width="120" height="120" alt="Kupske et al. (2021)">
 Our book on the study of nonnative sounds is available. 
 <br />
+
 **Kupske, F. F.**, Alves, U. K., & Lima Jr., R . M. (Eds.) (2021). [Investigando os sons de línguas não nativas: uma introdução](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"} *(Investigating the sounds of non-native languages: an introduction)*, Campinas-SP: Editora da Abralin.
 <br clear="right"/>
 
