@@ -33,8 +33,4 @@ Our book on the study of nonnative sounds is available.
 **Kupske, F. F.**, Alves, U. K., & Lima Jr., R . M. (Eds.) (2021). [Investigando os sons de línguas não nativas: uma introdução](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"} *(Investigating the sounds of non-native languages: an introduction)*, Campinas-SP: Editora da Abralin.
 <br clear="right"/>
 
-<p align="right">
-  <img src="doc/subpagelist.png" />
-</p>
-
 
