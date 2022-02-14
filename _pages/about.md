@@ -27,7 +27,7 @@ I am interested in supervising **undergraduate and graduate (MA and Doctorate) s
 
 # News:
 
-<img align="left" src="/images/livro2021.jpeg" align = "center" width="200" height="200" alt="Kupske et al. (2021)">
+<img align="left" src="/images/livro2021.png" align = "center" width="200" height="200" alt="Kupske et al. (2021)">
 Our book on the study of nonnative sounds is available. 
 <br clear="left"/>
 
