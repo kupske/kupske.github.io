@@ -16,7 +16,7 @@ Director of the Speech Sciences Laboratory (LaFALA-UFBA) and the Center for Bili
 
 I currently lecture in *English Phonetics and Phonology, Second Language Acquisition and Linguistic Theory*. My studies address the adaptability (development and attrition/drift) of native and nonnative speech perception and production over lifespan. By drawing on theories and methodologies from Complex Dynamic Systems Theory, Psycholinguistics, Laboratory Phonology, Experimental Phonetics and Sociophonetics, my research aims to investigate the impact of L2 development on L1 speech. I am interested in Lab. Phonology and Acoustic Phonetics and Bilingualism in general. 
 
-I am interested in **supervising undergraduate and graduate (MA and Doctorate) students at {PPGlinC](http://www.ppglinc.ufba.br/){:target="_blank"}** in the above areas, as well as in Phonetics and Phonology applied to language teaching. 
+I am interested in **supervising undergraduate and graduate (MA and Doctorate) students at [PPGlinC](http://www.ppglinc.ufba.br/){:target="_blank"}** in the above areas, as well as in Phonetics and Phonology applied to language teaching. 
 
 
 <a href="	osf.io/rabw7" target="_blank"><img src="/images/osf.png" style="float: left; width: 5%; margin-right: 1%; margin-bottom: 0.5em;"></a><a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes-azul-2.png" style="float: left; width: 8%; margin-right: 2%; margin-bottom: 0.5em;"></a>
