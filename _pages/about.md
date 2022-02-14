@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-**UNDER CONSTRUCTION**
 Full professor (with tenure) of Phonetics and Phonology and Second Language Development, Department of English, [Universidade Federal da Bahia](https://www.ufba.br){:target="_blank"}, Brazil.
 
 Professor at the [Graduate Program in Language and Culture (PPGLinC)](http://www.ppglinc.ufba.br/){:target="_blank"}, Universidade Federal da Bahia, Brazil.
 
 Director of the Speech Sciences Laboratory (LaFALA-UFBA) and the Center for Bilingualism and Complexity Studies.
 
-I teach courses related to English phonetics and phonology, second language acquisition and linguistic theory. My main activities address the development, the attrition and the interaction between speech perception and production, drawing on ideas from sociophonetics and experimental phonetics. My current research aims to investigate language attrition with a focus on how bilinguals change their abilities to produce and perceive their L1 in L2‐dominant settings.
+I currently lecture in *English Phonetics and Phonology, Second Language Acquisition and Linguistic Theory (drawing on concepts from Lab. Phonology and Sociophonetics)*. My studies addresse the adaptability (development and attrition/drift) of native and nonnative speech perception and production. By drawing on theories and methodologies from Complex Dynamic Systems Theory, Psycholinguistics, Laboratory Phonology, Experimental Phonetics and Sociophonetics, my research aims to investigate the impact of L2 development on L1 speech. I am interested in how speakers adapt their speech production over lifespan and bilingualism in general. 
+
+I am interested in **supervising undergraduate and graduate (MA and Doctorate) students** in the above, as well as in Phonetics and Phonology applied to language teaching. 
 
 
 <a href="	osf.io/rabw7" target="_blank"><img src="/images/osf.png" style="float: left; width: 5%; margin-right: 1%; margin-bottom: 0.5em;"></a><a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes-azul-2.png" style="float: left; width: 8%; margin-right: 2%; margin-bottom: 0.5em;"></a>
