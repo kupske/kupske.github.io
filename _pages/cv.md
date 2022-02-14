@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Full [CV](http://ronaldolimajr.github.io/files/CV_RonaldoLimaJr.pdf){:target="_blank"}
+Full [CV](http://kupske.github.io/files/CV_kupske.pdf){:target="_blank"}
 
 [Orcid](https://orcid.org/0000-0002-0616-612X){:target="_blank"}
 
