@@ -9,29 +9,34 @@ redirect_from:
 
 Full [CV](http://ronaldolimajr.github.io/files/CV_RonaldoLimaJr.pdf){:target="_blank"}
 
-[Orcid](https://orcid.org/0000-0002-8610-0306){:target="_blank"}
+[Orcid](https://orcid.org/0000-0002-0616-612X){:target="_blank"}
 
-[Lattes](http://lattes.cnpq.br/9111629117384735){:target="_blank"}
+[Lattes](http://lattes.cnpq.br/5896539533884923){:target="_blank"}
 
 ---
 
 ## Education
-- **PhD in Linguistics**, University of Brasília, Brasília - Brazil, 2012
-  - Title: The influence of age on the acquisition of six English vowels by Brazilian learners
-- **MA in Applied Linguistics**, University of Brasília, Brasília - Brazil, 2008
-  - Title: An investigation of the effects of explicit pronunciation instruction in the Brazil- ian EFL classroom
-- **BA in English Language and Literature**, University of Brasília, Brasília - Brazil, 2006
-- **BA in English Language Teaching**, University of Brasília, Brasília - Brazil, 2006
+- **PhD in (Psycho)Linguistics**, Federal University of Rio Grande do Sul, Porto Alegre - Brazil, 2016
+  - Title: Imigração, Atrito e Complexidade: a produção das oclusivas surdas iniciais do inglês e do português por brasileiros residentes em Londre
+- **MA in Linguistics**, Federal University of Santa Maria, Santa Maria - Brazil, 2011
+  - Title: Opacidade Fonológica: uma solução via Teoria da Otimidade Conexionista para um problema cartesiano
+- **BA in Language Sciencese**, University of Nottingham, Nottingham - England, 2008
+- **Lic. in Modern Languages (English and English Literature)**, Federal University of Santa Maria, Santa Maria - Brazil 2007
 
 ## Experience
 
-- 2014--*current*: **Professor in Phonetics and Phonology** at the Federal University of Ceará, Fortaleza, Brazil, in the Department of English Language Studies
-- 2018--2019: **Visiting Researcher** at the Federal University of São Carlos, São Paulo, Brazil
-- 2002--2013: **Teacher of English as a Foreign Language** at the Binational Center Casa Thomas Jefferson, Brasília, Brazil
+- 2017--*current*: ** Full Professor (with tenure) of English and English/Portuguese Phonetics and Phonology** at the Federal University of Bahia, Salvador, Brazil, in the Department of English Studies
+- 2012--2017: **Professor of English and English Linguistics** at the Community University of Chapecó, Chapecó, Brazil
+- 2014--2015: **Visiting Researcher** at the University College London, London, England
+- 2012--2017: **Professor of English and English Linguistics** at the Community University of Chapecó, Chapecó, Brazil
+- 2010--2011: **Substitute Professor of English** Federal University of Santa Maria, Santa Maria - Brazil
+- 2004--2007: **Teacher of English as a Foreign Language** at diferent language institutes
 
 ---
 
 ## Publications
+
+**Please note:** it is difficult to keep the host of available websites up to date, please refer to my [Researchgate](https://www.researchgate.net/profile/Felipe-Kupske){target="\_blank"} for an up to date list of my publications. 
 
 #### Books
 - Kupske, F. F., U. K. Alves & **R. M. Lima Jr.** (2021) [Investigando os sons de línguas não nativas: uma introdução](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"} *(Investigating the sounds of non-native languages: an introduction)*, Campinas-SP: Editora da Abralin.
