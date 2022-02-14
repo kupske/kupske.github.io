@@ -34,7 +34,12 @@ Full [CV](http://kupske.github.io/files/CV_kupske.pdf){:target="_blank"}
 - **Lic. in Modern Languages (English and English Literature)**, Federal University of Santa Maria, Santa Maria - Brazil 2007
 
 ---
+## Publications
 
+**Please note:** it is difficult to keep the host of available websites up to date, please refer to my [Researchgate](https://www.researchgate.net/profile/Felipe-Kupske){target="\_blank"} for an up to date list of my publications. 
+
+#### Books
+- **Kupske, F. F.**,  Alves U. K., & Lima Jr., R. M. (2021) [Investigando os sons de línguas não nativas: uma introdução](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"} *(Investigating the sounds of non-native languages: an introduction)*, Campinas-SP: Editora da Abralin.
 
 <!--
 {% include base_path %}
