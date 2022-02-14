@@ -25,13 +25,11 @@ I am interested in supervising **undergraduate and graduate (MA and Doctorate) s
 <br />
 <br />
 
-
 # News:
 
-The book I co-organized on the study of nonnative sounds is now available. 
-
 <img align="left" src="/images/book.jpeg" align = "center" width="200" height="200" alt="Kupske et al. (2021)">
-**Kupske, F. F.**, U. K. Alves & R. M. Lima Jr. (2021) [Investigando os sons de línguas não nativas: uma introdução](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"} *(Investigating the sounds of non-native languages: an introduction)*, Campinas-SP: Editora da Abralin.
+The book I co-organized on the study of nonnative sounds is now available. 
 <br clear="left"/>
 
+**Kupske, F. F.**, U. K. Alves & R. M. Lima Jr. (Eds.) (2021). [Investigando os sons de línguas não nativas: uma introdução](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"} *(Investigating the sounds of non-native languages: an introduction)*, Campinas-SP: Editora da Abralin.
 
