@@ -12,6 +12,8 @@ Full professor (with tenure) of Phonetics and Phonology and Second Language Deve
 
 Professor at the [Graduate Program in Language and Culture (PPGLinC)](http://www.ppglinc.ufba.br/){:target="_blank"}, Universidade Federal da Bahia, Brazil.
 
+Director of the Speech Sciences Laboratory (LaFALA-UFBA) and the Center for Bilingualism and Complexity Studies.
+
 I currently lecture in *English Phonetics and Phonology, Second Language Acquisition and Linguistic Theory*. My studies address the adaptability (development and attrition/drift) of native and nonnative speech perception and production over lifespan. By drawing on theories and methodologies from Complex Dynamic Systems Theory, Psycholinguistics, Laboratory Phonology, Experimental Phonetics and Sociophonetics, my research aims to investigate the impact of L2 development on L1 speech. I am interested in Lab. Phonology, Acoustic Phonetics and Bilingualism in general. 
 
 I am interested in supervising **undergraduate and graduate (MA and Doctorate) students** at [PPGlinC](http://www.ppglinc.ufba.br/){:target="_blank"} in the above areas, as well as in Phonetics and Phonology applied to language teaching. 
@@ -28,7 +30,6 @@ Our book on the study of nonnative sounds is available.
 **Kupske, F. F.**, Alves, U. K., & Lima Jr., R . M. (Eds.) (2021). [Investigando os sons de línguas não nativas: uma introdução](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"} *(Investigating the sounds of non-native languages: an introduction)*, Campinas-SP: Editora da Abralin.
 <br clear="right"/>
 
-Director of the Speech Sciences Laboratory (LaFALA-UFBA) and the Center for Bilingualism and Complexity Studies.
 <p align="center">
-  <img src="/images/lafalacebc.png" width="420" height="420"/>
+  <img src="/images/lafalacebc.png" width="400" height="400"/>
 </p>
