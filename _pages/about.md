@@ -31,5 +31,5 @@ Our book on the study of nonnative sounds is available.
 <br clear="right"/>
 
 <p align="center">
-  <img src="/images/lafalacebc.png" width="400" height="400"/>
+  <a href="http://lafala-ufba.github.io" target="_blank"><img src="/images/lafalacebc.png" width="420" height="420"></a>
 </p>
