@@ -14,7 +14,7 @@ Professor at the [Graduate Program in Language and Culture (PPGLinC)](http://www
 
 Director of the Speech Sciences Laboratory (LaFALA-UFBA) and the Center for Bilingualism and Complexity Studies.
 <p align="center">
-  <img src=/images/lafalacebc.png>
+  <img src="/images/lafalacebc.png" />
 </p>
 
 
