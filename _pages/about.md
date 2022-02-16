@@ -12,7 +12,7 @@ Full professor (with tenure) of Phonetics and Phonology and Second Language Deve
 
 Professor at the [Graduate Program in Language and Culture (PPGLinC)](http://www.ppglinc.ufba.br/){:target="_blank"}, Universidade Federal da Bahia, Brazil.
 
-Director of the [Speech Sciences Laboratory (LaFALA-UFBA)](http://lafala-ufba.githut.io){:target="_blank"} and the Center for Bilingualism and Complexity Studies.
+Director of the [Speech Sciences Laboratory (LaFALA-UFBA)](http://lafala-ufba.github.io){:target="_blank"} and the Center for Bilingualism and Complexity Studies.
 
 I currently lecture in *English Phonetics and Phonology, Second Language Acquisition and Linguistic Theory*. My studies address the adaptability (development and attrition/drift) of native and nonnative speech perception and production over lifespan. By drawing on theories and methodologies from Complex Dynamic Systems Theory, Psycholinguistics, Laboratory Phonology, Experimental Phonetics and Sociophonetics, my research aims to investigate the impact of L2 development on L1 speech. I am interested in Lab. Phonology, Acoustic Phonetics and Bilingualism in general. 
 
