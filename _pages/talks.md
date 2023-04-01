@@ -11,10 +11,11 @@ author_profile: true
 ### Talks
 
   - *I Seminário Internacional de Pesquisas em Ensino e Aprendizagem de Línguas: abordagens quantitativa e mista*
-- [Slides](https://ronaldolimajr.github.io/files/2021_interab_roundTable.pdf){:target="_blank"} and [Video](https://www.youtube.com/watch?v=-K4GGSkHsXo){:target="_blank"} of my talk "Second language speech data: challenges in creating a corpus of English-L2 speech for open access"
+- [Slides](https://kupske.github.io/files/2021_interab_roundTable.pdf){:target="_blank"} and [Video](){:target="_blank"} of my talk "....."
+
   - Interab12--Round-table "Second language speech data: methodological possibilities and challenges" (Sep 2021)
-- Slides: [add title](https://ronaldolimajr.github.io/files/vowelsInFortaleza.pdf){:target="_blank"} 
-  - 10th EICEFALA--International Meeting on Speech Sciences (Sep 2021)
+- Slides: [add title](https://kupske.github.io/files/vowelsInFortaleza.pdf){:target="_blank"} 
+
 
 
 <!--
