@@ -28,7 +28,7 @@ author_profile: true
 #### Selected Journal Publications
 
 - **Kupske, F. F.** (2021b). [Destabilizing effects of L2 explicit pronunciation instruction on L1 speech: Voice Onset Time production by Brazilian intermediate users of English.](https://doi.org/10.47627/gradus.v6i2.174){:target="_blank"} Gradus - Revista Brasileira de Fonologia de Laboratório, 6(2). 
-- 
+
 - Perozzo, R. V., & **Kupske, F. F.** (2021). [Speech perception and production as constructs of action: Implications for models of L2 development.](https://doi.org/10.5380/rvx.v16i5.81296){:target="_blank"} Revista X, 16(5), 1231. 
 
 - Santana, J. S., & **Kupske, F. F.** (2020). [De língua estrangeira à língua franca e os paradoxos in-between: (tensionando) o ensino de língua inglesa à luz da BNCC.](https://doi.org/10.5380/rvx.v15i5.73397){:target="_blank"} Revista X, 15(5), 146. 
