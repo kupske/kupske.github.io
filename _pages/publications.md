@@ -18,7 +18,11 @@ author_profile: true
 
 #### Book Chapters
 
+- **Kupske, F. F.** (2022). [*Fonologia Corporificada: integração e atrito linguístico na fala de imigrantes brasileiras no Reino Unido*](https://edufba.ufba.br/livros-publicados/catalogo/linguagem-e-sexualidade-perspectivas-do-seculo-xxi). In: Danniel da Silva Carvalho; Pedro Eduardo de Lima. (Org.). língua(gem) e sexualidade: perspectivas do século XXI. 1ed.Salvador: Edufba, 2022, v. 1, p. 95-120.
+
 - **Kupske, F. F.** (2021). [*Atrito Linguístico*](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/). In F. F. Kupske, U. K. Alves, & R. Lima Jr. (Orgs.), Investigando os sons de línguas não nativas: Uma introdução (p. 99–128). Editora da Abralin. https://doi.org/10.25189/9788568990117
+
+- Lima, J. R., **Kupske, F. F.**, & Teixeira, E. R. (2021). [Padrões de simplificação fonológica no desenvolvimento do inglês como língua não nativa](http://dx.doi.org/10.47402/ed.ep.c202175416578){:target="_blank"} In: Cristiana Barcelos da Silva, Roger Goulart Mello. (Org.). Educação em foco: contribuições para o desenvolvimento da criança na educação infantil. 1ed.Rio de Janeiro: Editora e-Publicar, 2021, v. 2, p. 219-229.
 
 - Lima, J. R., Teixeira, E. R., & **Kupske, F. F.** (2020). [Padrões de simplificação fonológica no desenvolvimento do inglês como língua não nativa por crianças brasileiras: Uma análise exploratória.](https://repositorio.ufba.br/handle/ri/32459){:target="_blank"} In A. A. Almeida, A. Batista, F. F. Kupske, & D. Zoghbi (Orgs.), Língua em movimento: Estudos em linguagem e interação (1o ed, Vol. 2, p. 291–308). EDUFBA. 
 
