@@ -12,7 +12,8 @@ redirect_from:
 
 ## Experience and Academic Appointments
 
-- 2017--*current*: **Full Professor (with tenure) of English and English/Portuguese Phonetics and Phonology** at the Federal University of Bahia, Salvador, Brazil, in the Department of English Studies
+- 2022--*current*: **Full Professor (with tenure) of English and Psycholinguistics** at the Federal University of Rio Grande do Sul, Porto Alegre, Brazil, in the Department of Modern Languages.
+- 2017--2022: **Full Professor (with tenure) of English and English/Portuguese Phonetics and Phonology** at the Federal University of Bahia, Salvador, Brazil, in the Department of English Studies.
 - 2012--2017: **Professor of English and English Linguistics** at the Community University of Chapecó, Chapecó, Brazil
 - 2014--2015: **Visiting Researcher** at the University College London, London, England
 - 2012--2017: **Professor of English and English Linguistics** at the Community University of Chapecó, Chapecó, Brazil
