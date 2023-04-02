@@ -44,6 +44,12 @@ author_profile: true
 
 #### Selected Journal Publications
 
+- **Kupske, F. F.**, & Perozzo, R. V. (in review). [Social indexicality and L2 speech development: Underexplored
+dynamic routes in psycholinguistics].
+
+- **Kupske, F. F.**, & Lima Jr., R (2022). [Integração a contextos de L2 dominantes e adaptabilidade fonológica de L1: Uma análise da produção das plosivas surdas do Português Brasileiro](https://www.seer.ufrgs.br/organon/article/view/122646){:target="_blank"} Organon, 37(1), p. 173-198.
+
+- Perozzo, R. V., & **Kupske, F. F.** (2022). [Do berço colonial à dinâmica não linear: O despertar da percepção da fala nos estudos em fonologia.](https://revistaseletronicas.pucrs.br/ojs/index.php/letronica/article/view/42641){:target="_blank"} Letrônica, 15(1), e42641. https://doi.org/10.15448/1984-4301.2022.1.42641.
 
 - **Kupske, F. F.** (2021b). [Destabilizing effects of L2 explicit pronunciation instruction on L1 speech: Voice Onset Time production by Brazilian intermediate users of English.](https://doi.org/10.47627/gradus.v6i2.174){:target="_blank"} Gradus - Revista Brasileira de Fonologia de Laboratório, 6(2). 
 
