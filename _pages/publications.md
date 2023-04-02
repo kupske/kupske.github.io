@@ -18,16 +18,29 @@ author_profile: true
 
 #### Book Chapters
 
-- **Kupske, F. F.** (2022). [*Fonologia Corporificada: integração e atrito linguístico na fala de imigrantes brasileiras no Reino Unido*](https://edufba.ufba.br/livros-publicados/catalogo/linguagem-e-sexualidade-perspectivas-do-seculo-xxi). In: Danniel da Silva Carvalho; Pedro Eduardo de Lima. (Org.). língua(gem) e sexualidade: perspectivas do século XXI. 1ed.Salvador: Edufba, 2022, v. 1, p. 95-120.
+- **Kupske, F. F.** (2023). [*Dez obras para conhecer Fonética*](https://edufba.ufba.br/livros-publicados/catalogo/linguagem-e-sexualidade-perspectivas-do-seculo-xxi). In: D. S. Carvalho; J. Cyrino (Orgs.). GuiaLET: Guia de Leitura do Instituto de Letras. 1 ed. Salvador: Edufba, 2023, v. 1, p. 161-176.
+
+- **Kupske, F. F.** (2022). [*Fonologia Corporificada: integração e atrito linguístico na fala de imigrantes brasileiras no Reino Unido*](https://edufba.ufba.br/livros-publicados/catalogo/linguagem-e-sexualidade-perspectivas-do-seculo-xxi). In: D. S. Carvalho; Pedro Eduardo de Lima. (Org.). língua(gem) e sexualidade: perspectivas do século XXI. 1ed.Salvador: Edufba, 2022, v. 1, p. 95-120.
 
 - **Kupske, F. F.** (2021). [*Atrito Linguístico*](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/). In F. F. Kupske, U. K. Alves, & R. Lima Jr. (Orgs.), Investigando os sons de línguas não nativas: Uma introdução (p. 99–128). Editora da Abralin. https://doi.org/10.25189/9788568990117
 
+- Lima Jr., R., Alves, U. K, & **Kupske, F. F.** (2021). [*Introdução a pesquisas de sons não nativos*](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/). In F. F. Kupske, U. K. Alves, & R. Lima Jr. (Orgs.), Investigando os sons de línguas não nativas: Uma introdução (p. 15–40). Editora da Abralin. https://doi.org/10.25189/9788568990117
+
 - Lima, J. R., **Kupske, F. F.**, & Teixeira, E. R. (2021). [Padrões de simplificação fonológica no desenvolvimento do inglês como língua não nativa](http://dx.doi.org/10.47402/ed.ep.c202175416578){:target="_blank"} In: Cristiana Barcelos da Silva, Roger Goulart Mello. (Org.). Educação em foco: contribuições para o desenvolvimento da criança na educação infantil. 1ed.Rio de Janeiro: Editora e-Publicar, 2021, v. 2, p. 219-229.
+
+- Almeida, A. A., Batista, A. S., **Kupske, F. F.**, & Zoghbi, D. M. (2020). [Linguística em movimento: um pacto pela vida, pela ciência e algumas notas sobre a história de uma coletânea criada em uma pandemia.](https://repositorio.ufba.br/handle/ri/32459){:target="_blank"} In A. A. Almeida, A. Batista, F. F. Kupske, & D. Zoghbi (Orgs.), Língua em movimento: Estudos em linguagem e interação (1o ed, Vol. 2, p. 291–308). EDUFBA. 
 
 - Lima, J. R., Teixeira, E. R., & **Kupske, F. F.** (2020). [Padrões de simplificação fonológica no desenvolvimento do inglês como língua não nativa por crianças brasileiras: Uma análise exploratória.](https://repositorio.ufba.br/handle/ri/32459){:target="_blank"} In A. A. Almeida, A. Batista, F. F. Kupske, & D. Zoghbi (Orgs.), Língua em movimento: Estudos em linguagem e interação (1o ed, Vol. 2, p. 291–308). EDUFBA. 
 
 - Silva, J., Cardoso, R. C., & **Kupske, F. F.** (2020). [Desenvolvimento linguístico e diferenças individuais: Uma discussão dinâmico complexa sobre a generalização de dados.](https://repositorio.ufba.br/handle/ri/32459){:target="_blank"} In A. A. Almeida, A. Batista, F. F. Kupske, & D. Zoghbi (Orgs.). *Língua em movimento*: Estudos em linguagem e interação (1o ed, Vol. 2, p. 309–325). EDUFBA. 
 
+- Souza, M., Bernardi, L. S., **Kupske, F. F.**, Guisso, C. M. (2018). [Analogias entre as línguas kaingang e portuguesa: perspectivas da literatura de tradição oral na formação de professores indígenas](https://www.unlpam.edu.ar/cultura-y-extension/edunlpam/catalogo/actas-de-eventos-academicos/los-pueblos-indigenas-de-america-latina-cipial){:target="_blank"} In: Abbona, Anabela Elizabeth / Roca, Ignacio. (Org.). Los pueblos indígenas de América Latina: actas del II CIPIAL. 1ed.Santa Rosa, Argentina: EdUNLPam, 2018, v. , p. 1275-.
+
+- **Kupske, F. F.** (2018). [Atrito de L1 por assimilação de categorias fonéticas da L2 na produção da fala de imigrantes de primeira geração](https://www.researchgate.net/publication/330576120_Atrito_de_L1_por_assimilacao_de_categorias_foneticas_da_L2_na_producao_da_fala_de_imigrantes_de_primeira_geracao)){:target="_blank"}. In: ATAIDE, C. A.; SOUSA, V. V.. (Org.). Língua, texto e ensino: descrições e aplicações. 1ed.Recife: Pipa Comunicação, 2018, p. 605-614.
+
+- Souza, M., **Kupske, F. F.**, Engel, J. L., & Matiazzo, N. (2018). [Texturas: aprendizagens com a leitura na educação básica](https://editoraargos.com.br/anexos/1768/55539/a-extensao-e-a-pesquisa---ebook_pdf){:target="_blank"} In: L. B. Rodrigues; M. A/ Lucca Caovilla. (Org.). A EXTENSÃO E A PESQUISA: um caminho de mão dupla entre comunidade e universidade. 1ed.Chapecó: Argos, 2018, p. 88-108.
+
+- **Kupske, F. F.**, & Ferreira-Gonçalves (2011).[Revisitando a opacidade fonológica em português: uma abordagem via Teoria da Otimidade Conexionista]. In: Giovana Ferreira-Gonçalves; Mirian Rose Brum-de-Paula; Márcia Keske-Soares. (Org.). Estudos em Aquisição Fonológica. 1ed.Pelotas: Ed. da UFPEL, 2011, v. 4, p. 73-107.
 
 #### Selected Journal Publications
 
