@@ -44,6 +44,7 @@ author_profile: true
 
 #### Selected Journal Publications
 
+
 - **Kupske, F. F.** (2021b). [Destabilizing effects of L2 explicit pronunciation instruction on L1 speech: Voice Onset Time production by Brazilian intermediate users of English.](https://doi.org/10.47627/gradus.v6i2.174){:target="_blank"} Gradus - Revista Brasileira de Fonologia de Laboratório, 6(2). 
 
 - Perozzo, R. V., & **Kupske, F. F.** (2021). [Speech perception and production as constructs of action: Implications for models of L2 development.](https://doi.org/10.5380/rvx.v16i5.81296){:target="_blank"} Revista X, 16(5), 1231. 
@@ -67,7 +68,7 @@ author_profile: true
 
 #### Others
 
-**Kupske, F. F.** (2016). [*Imigração, Atrito e Complexidade: A produção das oclusivas surdas iniciais do inglês e do português por sul-brasileiros residentes em Londres*](http://rgdoi.net/10.13140/RG.2.1.1697.9609){:target="_blank"} [Tese de Doutorado, Universidade Federal do Rio Grande do Sul].
+- **Kupske, F. F.** (2016). [*Imigração, Atrito e Complexidade: A produção das oclusivas surdas iniciais do inglês e do português por sul-brasileiros residentes em Londres*](http://rgdoi.net/10.13140/RG.2.1.1697.9609){:target="_blank"} [Tese de Doutorado, Universidade Federal do Rio Grande do Sul].
 
 
 <!--
