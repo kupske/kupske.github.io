@@ -11,7 +11,12 @@ author_profile: true
 
 #### Books
 
-- **Kupske, F. F.**,  Alves U. K., & Lima Jr., R. M. (2021) [*Investigando os sons de línguas não nativas: uma introdução*](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"} *(Investigating the sounds of non-native languages: an introduction)*, Campinas-SP: Editora da Abralin.
+<img align="left" src="/images/livro2021.png" width="120" height="120" alt="Kupske et al. (2021)">
+Free book available. 
+<br />
+
+**Kupske, F. F.**, Alves, U. K., & Lima Jr., R . M. (Eds.) (2021). [Investigando os sons de línguas não nativas: uma introdução](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"} *(Investigating the sounds of non-native languages: an introduction)*, Campinas-SP: Editora da Abralin.
+<br clear="left"/>
 
 - Almeida, A. A., Batista, A., **Kupske, F. F.**, & Zoghbi, D. (Orgs.). (2020). [Língua em movimento: Estudos em linguagem e interação (1o ed, Vol. 2)](https://repositorio.ufba.br/handle/ri/32459){:target="_blank"}. EDUFBA. 
 
