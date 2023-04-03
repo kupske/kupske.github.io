@@ -23,6 +23,7 @@ Almeida, A. A., Batista, A., **Kupske, F. F.**, & Zoghbi, D. (Orgs.). (2020). [L
 
 
 <br/>
+<br/>
 #### Book Chapters
 
 - **Kupske, F. F.** (2023). [*Dez obras para conhecer Fonética*](https://edufba.ufba.br/livros-publicados/catalogo/linguagem-e-sexualidade-perspectivas-do-seculo-xxi). In: D. S. Carvalho; J. Cyrino (Orgs.). GuiaLET: Guia de Leitura do Instituto de Letras. 1 ed. Salvador: Edufba, 2023, v. 1, p. 161-176.
