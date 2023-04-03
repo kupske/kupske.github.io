@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes.png" width="50" height="50"></a>
+<a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes.png" width="50" height="50"></a><a href="https://www.researchgate.net/profile/Felipe-Kupske" target="_blank"><img src="/images/rg.png" width="46" height="46"></a><a href="https://www.zotero.org/kupske" target="_blank"><img src="/images/zotero.png" width="50" height="50"></a><a href="osf.io/rabw7" target="_blank"><img src="/images/osf.png" width="50" height="50"></a>
 
 Full professor (with tenure) of English and Second Language Development, Department of Modern Languages, [Universidade Federal do Rio Grande do Sul](https://www.ufrgs.br){:target="_blank"}, Brazil.
 
@@ -22,8 +22,6 @@ I currently lecture courses in *English, Second Language Acquisition and Linguis
 
 I am interested in supervising **graduate (MA and Doctorate) students** at [PPGLET](https://www.ufrgs.br/ppgletras/){:target="_blank"} and at [PPGlinC](http://www.ppglinc.ufba.br/){:target="_blank"} in the above areas, as well as in Phonetics and Phonology applied to language teaching. 
 
-
-<a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes.png" width="50" height="50"></a><a href="https://www.researchgate.net/profile/Felipe-Kupske" target="_blank"><img src="/images/rg.png" width="46" height="46"></a><a href="https://www.zotero.org/kupske" target="_blank"><img src="/images/zotero.png" width="50" height="50"></a><a href="osf.io/rabw7" target="_blank"><img src="/images/osf.png" width="50" height="50"></a>
 
 # Highlights:
 
