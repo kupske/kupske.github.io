@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-**Please note:** It is difficult to keep the host of available websites up to date, please refer to my [Researchgate](https://www.researchgate.net/profile/Felipe-Kupske){:target="\_blank"} profile for an up to date list of my works. 
+**Please note:** It is difficult to keep the host of available websites up to date, please refer to my [Currículo Lattes](http://lattes.cnpq.br/5896539533884923){:target="\_blank"} for an up to date list of my works. 
 
 #### Books
 
