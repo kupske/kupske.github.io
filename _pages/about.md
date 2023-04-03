@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes.png" width="50" height="50"></a>
+
 Full professor (with tenure) of English and Second Language Development, Department of Modern Languages, [Universidade Federal do Rio Grande do Sul](https://www.ufrgs.br){:target="_blank"}, Brazil.
 
 Professor at the [Programa de Pós-Graduação em Letras (PPGLET)](https://www.ufrgs.br/ppgletras/){:target="_blank"}, Universidade Federal do Rio Grande do Sul, Brazil.
