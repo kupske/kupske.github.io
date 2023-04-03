@@ -12,7 +12,7 @@ redirect_from:
 
 Full professor (with tenure) of English and Theoretical and Experimental Psycholinguistics at [Universidade Federal do Rio Grande do Sul](https://www.ufrgs.br){:target="_blank"}, Brazil.
 
-Professor at [Programa de Pós-Graduação em Letras (PPGLET)](https://www.ufrgs.br/ppgletras/){:target="_blank"}, Universidade Federal do Rio Grande do Sul, Brazil and at [Programa de Pós-Graduação em Língua e Cultura (PPGLinC)](http://www.ppglinc.ufba.br/){:target="_blank"}, Universidade Federal da Bahia, Brazil.
+Professor at [Programa de Pós-Graduação em Letras (PPGLET)](https://www.ufrgs.br/ppgletras/){:target="_blank"}, Universidade Federal do Rio Grande do Sul, Brazil, and at [Programa de Pós-Graduação em Língua e Cultura (PPGLinC)](http://www.ppglinc.ufba.br/){:target="_blank"}, Universidade Federal da Bahia, Brazil.
 
 Director of the [Speech Sciences Laboratory (LaFALA-UFBA)](http://lafala-ufba.github.io){:target="_blank"} and the Center for Bilingualism and Complexity Studies. Member of [Laboratório de Bilinguismo e Cognição (LABICO)](https://www.ufrgs.br/labico/){:target="_blank"}. 
 
