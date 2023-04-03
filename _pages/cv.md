@@ -18,11 +18,11 @@ redirect_from:
 - 2014--2015: **Visiting Researcher** at the University College London, London, England
 - 2012--2017: **Professor of English and English Linguistics** at the Community University of Chapecó, Chapecó, Brazil
 - 2010--2011: **Substitute Professor of English** Federal University of Santa Maria, Santa Maria - Brazil
-- 2004--2007: **Teacher of English as a Foreign Language** at diferent language institute
+- 2004--2007: **Teacher of English as a Foreign Language** at diferent language institutes
 
 
 ## Education
-- **PhD in (Psycho)Linguistics**, Federal University of Rio Grande do Sul, Porto Alegre - Brazil, 2016
+- **Doctorate in Linguistics**, Federal University of Rio Grande do Sul, Porto Alegre - Brazil, 2016
   - Title: Imigração, Atrito e Complexidade: a produção das oclusivas surdas iniciais do inglês e do português por brasileiros residentes em Londre
 - **MA in Linguistics**, Federal University of Santa Maria, Santa Maria - Brazil, 2011
   - Title: Opacidade Fonológica: uma solução via Teoria da Otimidade Conexionista para um problema cartesiano
