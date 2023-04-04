@@ -33,13 +33,17 @@ The *Reading list for Undergraduates* and
 - Perozzo, R. V., & **Kupske, F. F.** (2021). [Speech perception and production as constructs of action: Implications for models of L2 development.](https://doi.org/10.5380/rvx.v16i5.81296){:target="_blank"} Revista X, 16(5), 1231. 
 
 
-### Lab. Phonology 
+### Lab. Phonology and Experimental Phonetics
+
+- Barbosa, P. (2022). [Manual de prosódia experimental](https://editora.abralin.org/publicacoes/manual-de-prosodia-experimental/){:target="_blank"}. Editora da Abralin. 
 
 ### Creating Research Projects 
 
 - Lima Jr., R., Alves, U. K, & **Kupske, F. F.** (2021). [*Introdução a pesquisas de sons não nativos*](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"}. In F. F. Kupske, U. K. Alves, & R. Lima Jr. (Orgs.), Investigando os sons de línguas não nativas: Uma introdução (p. 15–40). Editora da Abralin. https://doi.org/10.25189/9788568990117
 
 ### Quatitative data analysis for linguists
+
+- Oushiro, L. (2022). [Introdução à estatística para linguistas](https://editora.abralin.org/publicacoes/introducao-a-estatistica-para-linguistas/){:target="_blank"}. Editora da Abralin.
 
 - Guilherme Garcia's tutorial [Introduction to data analysis using R](https://guilhermegarcia.github.io/rWorkshop/garcia_rWorkshop_complete.html){:target="_blank"}
 - Sonderegger's [Regression modeling for linguistic data](https://osf.io/pnumg/){:target="_blank"}
