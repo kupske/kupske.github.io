@@ -37,6 +37,8 @@ The *Reading list for Undergraduates* and
 
 ### Creating Research Projects 
 
+- Lima Jr., R., Alves, U. K, & **Kupske, F. F.** (2021). [*Introdução a pesquisas de sons não nativos*](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"}. In F. F. Kupske, U. K. Alves, & R. Lima Jr. (Orgs.), Investigando os sons de línguas não nativas: Uma introdução (p. 15–40). Editora da Abralin. https://doi.org/10.25189/9788568990117
+
 ### Quatitative data analysis for linguists
 
 - Guilherme Garcia's tutorial [Introduction to data analysis using R](https://guilhermegarcia.github.io/rWorkshop/garcia_rWorkshop_complete.html){:target="_blank"}
