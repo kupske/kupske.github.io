@@ -18,7 +18,8 @@ Director of the [Speech Sciences Laboratory (LaFALA-UFBA)](http://lafala-ufba.gi
 
 I currently lecture courses in *English* and in *Theoretical, Experimental and Social Psycholinguistics*. My studies currently address the adaptability (development and attrition/drift) of native and nonnative speech perception and production over lifespan. By drawing on theories and methodologies from Complex Dynamic Systems Theory, Experimental and Social Psycholinguistics, Laboratory Phonology, Experimental Phonetics and Sociophonetics, my research aims to investigate L2 phonological development and/or its impact on L1 speech production and perception. I am interested in **Lab. Phonology, Acoustic Phonetics and Bilingualism in general**. I am also engaged in studying **Language Teaching *(orality and pronunciation)***.
 
-I am interested in supervising **graduate (MA and Doctorate) students** at [PPGLET](https://www.ufrgs.br/ppgletras/){:target="_blank"} and at [PPGlinC](http://www.ppglinc.ufba.br/){:target="_blank"} in the above areas. Teste.....
+I am interested in supervising studies in the above areas at Doctorate, Master’s or undergraduate level. I supervise **graduate (MA and Doctorate) students** at [PPGLET](https://www.ufrgs.br/ppgletras/){:target="_blank"} and, less frequently, at [PPGlinC](http://www.ppglinc.ufba.br/){:target="_blank"}, and undergraduate students only at UFRGS. 
+
 
 # Highlights:
 
