@@ -45,10 +45,15 @@ The *Reading list for Undergraduates* and
 
 - Oushiro, L. (2022). [Introdução à estatística para linguistas](https://editora.abralin.org/publicacoes/introducao-a-estatistica-para-linguistas/){:target="_blank"}. Editora da Abralin.
 
+- Roback, P., & Legler, J. (2021). [Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR/){:target="_blank"}. CRC Press.
+
+- Vasishth, S., Schad, D., Bürki, A., & Kliegl, R. (2022) [Linear Mixed Models in Linguistics and Psychology: A Comprehensive Introduction](https://vasishth.github.io/Freq_CogSci/){:target="_blank"}.
+
+
+#### Tutorials 
+
 - Guilherme Garcia's tutorial [Introduction to data analysis using R](https://guilhermegarcia.github.io/rWorkshop/garcia_rWorkshop_complete.html){:target="_blank"}
-- Sonderegger's [Regression modeling for linguistic data](https://osf.io/pnumg/){:target="_blank"}
-- Roback & Legler's [Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR/){:target="_blank"}
-- Vasishth, Schad, Bürki & Kliegl's [Linear Mixed Models in Linguistics and Psychology: A Comprehensive Introduction](https://vasishth.github.io/Freq_CogSci/){:target="_blank"}
+- Sonderegger's [Regression modeling for linguistic data](https://osf.io/pnumg/){:target="_blank"} 
 - James, Witten, Hastie & Tibshirani's [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com){:target="_blank"}
 - Ronaldo Lima Jr's [Análise Quantitativa de Dados em Linguística](https://ronaldolimajr.github.io/quant-data-analysis) *(under construction in 2021)*
 - Ronaldo Lima Jr. and Guilherme Garcia's [Introduction to Regression Models for Linguists] (2020)
