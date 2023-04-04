@@ -24,6 +24,8 @@ author_profile: true
 ### Reading list for MA and Doctorate Candidates 
 The *Reading lists for Undergraduates* and
 
+- Leivada, E., Rodríguez-Ordóñez, I., Parafita Couto, M., & Perpiñán, S. (2023). [Bilingualism with minority languages: Why searching for unicorn language users does not move us forward](https://www.cambridge.org/core/journals/applied-psycholinguistics/article/bilingualism-with-minority-languages-why-searching-for-unicorn-language-users-does-not-move-us-forward/96BCF43CA7455C7F410400E9992F552D){:target="_blank"}. Applied Psycholinguistics, 1-16. doi:10.1017/S0142716423000036
+
 - Perozzo, R. V., & **Kupske, F. F.** (2021). [Speech perception and production as constructs of action: Implications for models of L2 development.](https://doi.org/10.5380/rvx.v16i5.81296){:target="_blank"} Revista X, 16(5), 1231. 
 
 
