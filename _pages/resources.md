@@ -23,8 +23,10 @@ author_profile: true
 - Silva, J., Cardoso, R. C., & **Kupske, F. F.** (2020). [Desenvolvimento linguístico e diferenças individuais: Uma discussão dinâmico complexa sobre a generalização de dados.](https://repositorio.ufba.br/handle/ri/32459){:target="_blank"} In A. A. Almeida, A. Batista, F. F. Kupske, & D. Zoghbi (Orgs.). *Língua em movimento*: Estudos em linguagem e interação (1o ed, Vol. 2, p. 309–325). EDUFBA. 
 
 
-### Reading list for MA and Doctorate Candidates 
-The *Reading lists for Undergraduates* and
+### Reading list for MA and Doctorate Candidates (Must-read works)
+The *Reading list for Undergraduates* and
+
+- De Cat, C. (2021). [Socioeconomic status as a proxy for input quality in bilingual children?](https://www.cambridge.org/core/journals/applied-psycholinguistics/article/socioeconomic-status-as-a-proxy-for-input-quality-in-bilingual-children/E196D1E1082833E2D095419500B3E82C){:target="_blank"} Applied Psycholinguistics, 42(2), 301-324. doi:10.1017/S014271642000079X
 
 - Leivada, E., Rodríguez-Ordóñez, I., Parafita Couto, M., & Perpiñán, S. (2023). [Bilingualism with minority languages: Why searching for unicorn language users does not move us forward](https://www.cambridge.org/core/journals/applied-psycholinguistics/article/bilingualism-with-minority-languages-why-searching-for-unicorn-language-users-does-not-move-us-forward/96BCF43CA7455C7F410400E9992F552D){:target="_blank"}. Applied Psycholinguistics, 1-16. doi:10.1017/S0142716423000036
 
