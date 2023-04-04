@@ -8,6 +8,8 @@ author_profile: true
 
 ### Reading list for Undergraduates (Must-read works)
 
+- Jessner, U., Oberhofer, K., & Megens, M. (2021). [The attrition of school-learned foreign languages: A multilingual perspective](https://www.cambridge.org/core/journals/applied-psycholinguistics/article/attrition-of-schoollearned-foreign-languages-a-multilingual-perspective/EEF3FFDAEBCA439C1806DC3A370F34C8){:target="_blank"}. Applied Psycholinguistics, 42(1), 19-50. doi:10.1017/S0142716420000557
+
 - **Kupske, F. F.** (2021). [*Atrito Linguístico*](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/). In F. F. Kupske, U. K. Alves, & R. Lima Jr. (Orgs.), Investigando os sons de línguas não nativas: Uma introdução (p. 99–128). Editora da Abralin. https://doi.org/10.25189/9788568990117
 
 - Lima Jr., R., Alves, U. K, & **Kupske, F. F.** (2021). [*Introdução a pesquisas de sons não nativos*](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/). In F. F. Kupske, U. K. Alves, & R. Lima Jr. (Orgs.), Investigando os sons de línguas não nativas: Uma introdução (p. 15–40). Editora da Abralin. https://doi.org/10.25189/9788568990117
