@@ -6,7 +6,7 @@ author_profile: true
 ---
 ** UNDER CONSTRUCTION **
 
-### Reading lists for Undergraduates 
+### Reading list for Undergraduates (Must-read works)
 
 - **Kupske, F. F.** (2021). [*Atrito Linguístico*](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/). In F. F. Kupske, U. K. Alves, & R. Lima Jr. (Orgs.), Investigando os sons de línguas não nativas: Uma introdução (p. 99–128). Editora da Abralin. https://doi.org/10.25189/9788568990117
 
@@ -21,7 +21,7 @@ author_profile: true
 - **Kupske, F. F.** (2019). [The impact of language attrition on language teaching: The dynamics of linguistic knowledge retention and maintenance in multilingualism.](https://doi.org/10.5007/2175-8026.2019v72n3p311){:target="_blank"} Ilha do Desterro A Journal of English Language, Literatures in English and Cultural Studies, 72(3), 311–330. 
 
 
-### Reading lists for MA and Doctorate Candidates 
+### Reading list for MA and Doctorate Candidates 
 The *Reading lists for Undergraduates* and
 
 - Perozzo, R. V., & **Kupske, F. F.** (2021). [Speech perception and production as constructs of action: Implications for models of L2 development.](https://doi.org/10.5380/rvx.v16i5.81296){:target="_blank"} Revista X, 16(5), 1231. 
