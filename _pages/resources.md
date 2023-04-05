@@ -32,12 +32,11 @@ The *Reading list for Undergraduates* and
 
 - Perozzo, R. V., & **Kupske, F. F.** (2021). [Speech perception and production as constructs of action: Implications for models of L2 development.](https://doi.org/10.5380/rvx.v16i5.81296){:target="_blank"} Revista X, 16(5), 1231. 
 
+- Tarone, E. (2007). [Sociolinguistic Approaches to Second Language Acquisition Research-1997-2007](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-4781.2007.00672.x){:target="_blank"}. The Modern Language Journal, 91, 837–848. doi:10.1111/j.1540-4781.2007.00672.x 
+ 
 - Thaler, I. (2019).[Can a sociolinguistic perspective of Second Language Acquisition solve ‘the longstanding human curiosity’ of learning languages?](https://rudn.tlcjournal.org/archive/3(3)/3(3)-03.pdf){:target="_blank"}. Training, Language and Culture,
 3(3), 36-55. doi: 10.29366/2019tlc.3.3.3
-- 
--   Isabelle Sophie Thaler
 
-- Tarone, E. (2007). [Sociolinguistic Approaches to Second Language Acquisition Research-1997-2007](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-4781.2007.00672.x){:target="_blank"}. The Modern Language Journal, 91, 837–848. doi:10.1111/j.1540-4781.2007.00672.x 
 
 ### Lab. Phonology and Experimental Phonetics
 
