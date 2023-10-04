@@ -4,7 +4,7 @@ title: "Resources"
 permalink: /resources/
 author_profile: true
 ---
-** UNDER CONSTRUCTION **
+
 
 ### Reading list for Undergraduates (Must-read works)
 
@@ -37,7 +37,6 @@ The *Reading list for Undergraduates* and
 - Thaler, I. (2019).[Can a sociolinguistic perspective of Second Language Acquisition solve ‘the longstanding human curiosity’ of learning languages?](https://rudn.tlcjournal.org/archive/3(3)/3(3)-03.pdf){:target="_blank"}. Training, Language and Culture,
 3(3), 36-55. doi: 10.29366/2019tlc.3.3.3
 
-
 ### Lab. Phonology and Experimental Phonetics
 
 - Barbosa, P. (2022). [Manual de prosódia experimental](https://editora.abralin.org/publicacoes/manual-de-prosodia-experimental/){:target="_blank"}. Editora da Abralin. 
@@ -46,6 +45,13 @@ The *Reading list for Undergraduates* and
 
 - Lima Jr., R., Alves, U. K, & **Kupske, F. F.** (2021). [*Introdução a pesquisas de sons não nativos*](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"}. In F. F. Kupske, U. K. Alves, & R. Lima Jr. (Orgs.), Investigando os sons de línguas não nativas: Uma introdução (p. 15–40). Editora da Abralin. https://doi.org/10.25189/9788568990117
 
+### Data vizualization for linguists
+
+- Kupske, F. (2023) [Visualização de dados com R (ggplot2)](https://drive.google.com/file/d/1FjlWxEUmTJLsbqvkXh9u7X2o3dufJ8iD/view?usp=sharing){:target="_blank"}. Universidade Federal do Rio Grande do Sul.
+  
+- Kupske, F. (2023) [Criação de mapas com R (tmap)](https://drive.google.com/file/d/1KgqDNQ_DaFXQPuYfAyUjzqjxIddt9gUP/view?usp=sharing){:target="_blank"}. Universidade Federal do Rio Grande do Sul.
+  
+  
 ### Quatitative data analysis for linguists
 
 - Oushiro, L. (2022). [Introdução à estatística para linguistas](https://editora.abralin.org/publicacoes/introducao-a-estatistica-para-linguistas/){:target="_blank"}. Editora da Abralin.
