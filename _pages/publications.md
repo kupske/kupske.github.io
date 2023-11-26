@@ -52,10 +52,12 @@ Almeida, A. A., Batista, A., **Kupske, F. F.**, & Zoghbi, D. (Orgs.). (2020). [L
 
 #### Selected Journal Publications
 
-- **Kupske, F. F.**, Lima Jr., R., & Alves, U. K. (Forthcoming). [A comparison between Full Time Equivalent and Length of Residence as measurements of time in bilingual speech research: the case of first language attrition]. Ilha do Desterro. 
-
-- **Kupske, F. F.**, & Perozzo, R. V. (Forthcoming). [Social indexicality and L2 speech development: Underexplored
-dynamic routes in psycholinguistics]. Letrônica.
+- **Kupske, F. F.**, Lima Jr., R., & Alves, U. K. (Forthcoming). [A comparison between Full Time Equivalent and Length of Residence as measurements of time in bilingual speech research: the case of first language attrition]. Ilha do Desterro.
+  
+-  **Kupske, F. F.**, & Perozzo, R. V. (Forthcoming). [A indexicalidade social como bússola em novos mapas sociossemióticos: desenvolvimento fonológico de L2 em contextos de imigração]. Organon.
+  
+-  **Kupske, F. F.**, & Perozzo, R. V. (2023). [Social indexicality and L2 speech development: Underexplored
+dynamic routes in psycholinguistics](https://revistaseletronicas.pucrs.br/index.php/letronica/article/view/44429){:target="_blank"}. Letrônica, 16(1), p. e44429.
 
 - **Kupske, F. F.**, & Lima Jr., R (2022). [Integração a contextos de L2 dominantes e adaptabilidade fonológica de L1: Uma análise da produção das plosivas surdas do Português Brasileiro](https://www.seer.ufrgs.br/organon/article/view/122646){:target="_blank"} Organon, 37(1), p. 173-198.
 
