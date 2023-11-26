@@ -57,31 +57,31 @@ Almeida, A. A., Batista, A., **Kupske, F. F.**, & Zoghbi, D. (Orgs.). (2020). [L
 -  **Kupske, F. F.**, & Perozzo, R. V. (Forthcoming). [A indexicalidade social como bússola em novos mapas sociossemióticos: desenvolvimento fonológico de L2 em contextos de imigração]. Organon.
   
 -  **Kupske, F. F.**, & Perozzo, R. V. (2023). [Social indexicality and L2 speech development: Underexplored
-dynamic routes in psycholinguistics](https://revistaseletronicas.pucrs.br/index.php/letronica/article/view/44429){:target="_blank"}. Letrônica, 16(1), p. e44429.
+dynamic routes in psycholinguistics](https://revistaseletronicas.pucrs.br/index.php/letronica/article/view/44429){:target="_blank"}. Letrônica, 16(1), p. e44429. DOI: 10.15448/1984-4301.2023.1.44429.
 
-- **Kupske, F. F.**, & Lima Jr., R (2022). [Integração a contextos de L2 dominantes e adaptabilidade fonológica de L1: Uma análise da produção das plosivas surdas do Português Brasileiro](https://www.seer.ufrgs.br/organon/article/view/122646){:target="_blank"} Organon, 37(1), p. 173-198.
+- **Kupske, F. F.**, & Lima Jr., R (2022). [Integração a contextos de L2 dominantes e adaptabilidade fonológica de L1: Uma análise da produção das plosivas surdas do Português Brasileiro](https://www.seer.ufrgs.br/organon/article/view/122646){:target="_blank"} Organon, 37(1), p. 173-198. DOI: 10.22456/2238-8915.122646
 
-- Perozzo, R. V., & **Kupske, F. F.** (2022). [Do berço colonial à dinâmica não linear: O despertar da percepção da fala nos estudos em fonologia.](https://revistaseletronicas.pucrs.br/ojs/index.php/letronica/article/view/42641){:target="_blank"} Letrônica, 15(1), e42641. https://doi.org/10.15448/1984-4301.2022.1.42641.
+- Perozzo, R. V., & **Kupske, F. F.** (2022). [Do berço colonial à dinâmica não linear: O despertar da percepção da fala nos estudos em fonologia.](https://revistaseletronicas.pucrs.br/ojs/index.php/letronica/article/view/42641){:target="_blank"} Letrônica, 15(1), e42641. DOI: 10.15448/1984-4301.2022.1.42641.
 
-- **Kupske, F. F.** (2021b). [Destabilizing effects of L2 explicit pronunciation instruction on L1 speech: Voice Onset Time production by Brazilian intermediate users of English.](https://doi.org/10.47627/gradus.v6i2.174){:target="_blank"} Gradus - Revista Brasileira de Fonologia de Laboratório, 6(2). 
+- **Kupske, F. F.** (2021b). [Destabilizing effects of L2 explicit pronunciation instruction on L1 speech: Voice Onset Time production by Brazilian intermediate users of English.](https://doi.org/10.47627/gradus.v6i2.174){:target="_blank"} Gradus - Revista Brasileira de Fonologia de Laboratório, 6(2). DOI: 10.47627/gradus.v6i2.174.
 
-- Perozzo, R. V., & **Kupske, F. F.** (2021). [Speech perception and production as constructs of action: Implications for models of L2 development.](https://doi.org/10.5380/rvx.v16i5.81296){:target="_blank"} Revista X, 16(5), 1231. 
+- Perozzo, R. V., & **Kupske, F. F.** (2021). [Speech perception and production as constructs of action: Implications for models of L2 development.](https://doi.org/10.5380/rvx.v16i5.81296){:target="_blank"} Revista X, 16(5), 1231. DOI: 10.5380/rvx.v16i5.81296.
 
-- Santana, J. S., & **Kupske, F. F.** (2020). [De língua estrangeira à língua franca e os paradoxos in-between: (tensionando) o ensino de língua inglesa à luz da BNCC.](https://doi.org/10.5380/rvx.v15i5.73397){:target="_blank"} Revista X, 15(5), 146. 
+- Santana, J. S., & **Kupske, F. F.** (2020). [De língua estrangeira à língua franca e os paradoxos in-between: (tensionando) o ensino de língua inglesa à luz da BNCC.](https://doi.org/10.5380/rvx.v15i5.73397){:target="_blank"} Revista X, 15(5), 146. DOI: 10.5380/rvx.v15i5.73397.
 
-- **Kupske, F. F.**, & De Oliveira, M. S. (2020). [O desenvolvimento do padrão de Voice Onset Time das oclusivas surdas iniciais do inglês por aprendizes soteropolitanos: Efeitos da instrução explícita.](https://doi.org/10.5007/2175-8026.2020v73n3p185){:target="_blank"} Ilha do Desterro A Journal of English Language, Literatures in English and Cultural Studies, 73(3), 185–204. 
+- **Kupske, F. F.**, & De Oliveira, M. S. (2020). [O desenvolvimento do padrão de Voice Onset Time das oclusivas surdas iniciais do inglês por aprendizes soteropolitanos: Efeitos da instrução explícita.](https://doi.org/10.5007/2175-8026.2020v73n3p185){:target="_blank"} Ilha do Desterro A Journal of English Language, Literatures in English and Cultural Studies, 73(3), 185–204. DOI: 10.5007/2175-8026.2020v73n3p185. 
 
-- **Kupske, F. F.** (2019). [The impact of language attrition on language teaching: The dynamics of linguistic knowledge retention and maintenance in multilingualism.](https://doi.org/10.5007/2175-8026.2019v72n3p311){:target="_blank"} Ilha do Desterro A Journal of English Language, Literatures in English and Cultural Studies, 72(3), 311–330. 
+- **Kupske, F. F.** (2019). [The impact of language attrition on language teaching: The dynamics of linguistic knowledge retention and maintenance in multilingualism.](https://doi.org/10.5007/2175-8026.2019v72n3p311){:target="_blank"} Ilha do Desterro A Journal of English Language, Literatures in English and Cultural Studies, 72(3), 311–330. DOI: 10.5007/2175-8026.2019v72n3p311.
 
-- **Kupske, F. F.** (2019). [Repensando os efeitos de idade no desenvolvimento fônico de L2 (Rethinking the effects of age on L2 phonic development).](https://doi.org/10.22481/el.v17i2.5340){:target="_blank"} Estudos da Língua(gem), 17(2), 123. https://doi.org/10.22481/el.v17i2.5340
+- **Kupske, F. F.** (2019). [Repensando os efeitos de idade no desenvolvimento fônico de L2 (Rethinking the effects of age on L2 phonic development).](https://doi.org/10.22481/el.v17i2.5340){:target="_blank"} Estudos da Língua(gem), 17(2), 123. DOI: 10.22481/el.v17i2.5340.
 
-- **Kupske, F. F.**, Perozzo, R. V., & Alves, U. K. (2019). [Sound change as a complex dynamic phenomenon and the blurriness of grammar stability.](https://doi.org/10.47295/mren.v8i2.1966){:target="_blank"} Macabéa - Revista Eletrônica do Netlli, 8(2), 158–172. 
+- **Kupske, F. F.**, Perozzo, R. V., & Alves, U. K. (2019). [Sound change as a complex dynamic phenomenon and the blurriness of grammar stability.](https://doi.org/10.47295/mren.v8i2.1966){:target="_blank"} Macabéa - Revista Eletrônica do Netlli, 8(2), 158–172. DOI: 10.47295/mren.v8i2.1966.
 
-- Schereschewsky, L. C., Alves, U. K., & **Kupske, F. F.** (2019). [Atrito linguístico em plosivas em início de palavra: Dados de bilíngues e trilíngues.](https://doi.org/10.31513/linguistica.2019.v15n2a21353){:target="_blank"} Revista Linguíʃtica, 15(2), 10–29.
+- Schereschewsky, L. C., Alves, U. K., & **Kupske, F. F.** (2019). [Atrito linguístico em plosivas em início de palavra: Dados de bilíngues e trilíngues.](https://doi.org/10.31513/linguistica.2019.v15n2a21353){:target="_blank"} Revista Linguíʃtica, 15(2), 10–29. DOI: 10.31513/linguistica.2019.v15n2a21353.
 
-- **Kupske, F. F.** (2017). [A complex approach on integrated late bilinguals’ English VOT production: A study on south Brazilian immigrants in London.](https://doi.org/10.5007/2175-8026.2017v70n3p81){:target="_blank"}  Ilha do Desterro A Journal of English Language, Literatures in English and Cultural Studies, 70(3), 81–94. 
+- **Kupske, F. F.** (2017). [A complex approach on integrated late bilinguals’ English VOT production: A study on south Brazilian immigrants in London.](https://doi.org/10.5007/2175-8026.2017v70n3p81){:target="_blank"}  Ilha do Desterro A Journal of English Language, Literatures in English and Cultural Studies, 70(3), 81–94. DOI: 10.5007/2175-8026.2017v70n3p81.
 
-- Schereschewsky, L. C., Alves, U. K., & **Kupske, F. F.** (2017). [First Language Attrition: The Effects of English (L2) on Brazilian Portuguese VOT Patterns in an L1-Dominant Environment.](https://doi.org/10.15448/1984-4301.2017.2.26365){:target="_blank"} Letrônica, 10(2), 700. 
+- Schereschewsky, L. C., Alves, U. K., & **Kupske, F. F.** (2017). [First Language Attrition: The Effects of English (L2) on Brazilian Portuguese VOT Patterns in an L1-Dominant Environment.](https://doi.org/10.15448/1984-4301.2017.2.26365){:target="_blank"} Letrônica, 10(2), 700. DOI: 10.15448/1984-4301.2017.2.26365.
 
 
 #### Others
