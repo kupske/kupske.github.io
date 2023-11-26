@@ -13,7 +13,7 @@ author_profile: true
 
 <img align="left" src="/images/livro2021c.png" width="120" height="120" alt="Kupske et al. (2021)">
 <br/>
-**Kupske, F. F.**, Alves, U. K., & Lima Jr., R . M. (Eds.) (2021). [Investigando os sons de línguas não nativas: uma introdução](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"} *(Investigating the sounds of non-native languages: an introduction)*, Campinas-SP: Editora da Abralin.
+**Kupske, F. F.**, Alves, U. K., & Lima Jr., R . M. (Eds.) (2021). [Investigando os sons de línguas não nativas: uma introdução](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"} *(Investigating the sounds of non-native languages: an introduction)*, Campinas-SP: Editora da Abralin. DOI: 10.25189/9788568990117. ISBN: 978-85-68990-11-7.
 <br clear="left"/>
 
 <img align="left" src="/images/livro2021b.png" width="120" height="120" alt="Kupske et al. (2021)">
