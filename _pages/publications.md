@@ -52,9 +52,11 @@ Almeida, A. A., Batista, A., **Kupske, F. F.**, & Zoghbi, D. (Orgs.). (2020). [L
 
 #### Selected Journal Publications
 
-- **Kupske, F. F.**, Lima Jr., R., & Alves, U. K. (Forthcoming). [A comparison between Full Time Equivalent and Length of Residence as measurements of time in bilingual speech research: the case of first language attrition]. Ilha do Desterro.
+- Lima Jr., R., Alves, U. K., Silveira, R., **Kupske, F. F.**, Kluge, D. (Forthcoming). [A Teoria de Sistemas Dinâmicos Complexos e o desenvolvimento sonoro de línguas não nativas: implicações para a pesquisa e o ensino.] 
   
--  **Kupske, F. F.**, & Perozzo, R. V. (Forthcoming). [A indexicalidade social como bússola em novos mapas sociossemióticos: desenvolvimento fonológico de L2 em contextos de imigração]. Organon.
+- **Kupske, F. F.**, Lima Jr., R., & Alves, U. K. (2023). [A comparison between Full Time Equivalent and Length of Residence as measurements of time in bilingual speech research: the case of first language attrition](https://periodicos.ufsc.br/index.php/desterro/article/view/94531){:target="_blank"}. Ilha do Desterro, 76(3), p. 177-198. DOI: 10.5007/2175-8026.2023.e94531.
+  
+-  **Kupske, F. F.**, & Perozzo, R. V. (2023). [A indexicalidade social como bússola em novos mapas sociossemióticos: desenvolvimento fonológico de L2 em contextos de imigração](https://seer.ufrgs.br/index.php/organon/article/view/135064){:target="_blank"}. Organon, 38(76), p. 1-21. DOI: 10.22456/2238-8915.135064
   
 -  **Kupske, F. F.**, & Perozzo, R. V. (2023). [Social indexicality and L2 speech development: Underexplored
 dynamic routes in psycholinguistics](https://revistaseletronicas.pucrs.br/index.php/letronica/article/view/44429){:target="_blank"}. Letrônica, 16(1), p. e44429. DOI: 10.15448/1984-4301.2023.1.44429.
