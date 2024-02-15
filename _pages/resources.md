@@ -47,18 +47,18 @@ The *Reading list for Undergraduates* and
 
 ### Data vizualization for linguists
 
-- **Kupske, F. F.** (2023) [Visualização de dados com R (ggplot2)](https://drive.google.com/file/d/1FjlWxEUmTJLsbqvkXh9u7X2o3dufJ8iD/view?usp=sharing){:target="_blank"}. Universidade Federal do Rio Grande do Sul.
+- **Kupske, F. F.** (2023) [*Visualização de dados com R (ggplot2)*](https://drive.google.com/file/d/1FjlWxEUmTJLsbqvkXh9u7X2o3dufJ8iD/view?usp=sharing){:target="_blank"}. Universidade Federal do Rio Grande do Sul.
   
-- **Kupske, F. F.** [Criação de mapas com R (tmap)](https://drive.google.com/file/d/1KgqDNQ_DaFXQPuYfAyUjzqjxIddt9gUP/view?usp=sharing){:target="_blank"}. Universidade Federal do Rio Grande do Sul.
+- **Kupske, F. F.** [*Criação de mapas com R (tmap)*](https://drive.google.com/file/d/1KgqDNQ_DaFXQPuYfAyUjzqjxIddt9gUP/view?usp=sharing){:target="_blank"}. Universidade Federal do Rio Grande do Sul.
   
   
 ### Quatitative data analysis for linguists
 
 - Oushiro, L. (2022). [*Introdução à estatística para linguistas*](https://editora.abralin.org/publicacoes/introducao-a-estatistica-para-linguistas/){:target="_blank"}. Editora da Abralin.
 
-- Roback, P., & Legler, J. (2021). [Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR/){:target="_blank"}. CRC Press.
+- Roback, P., & Legler, J. (2021). [*Beyond Multiple Linear Regression*](https://bookdown.org/roback/bookdown-BeyondMLR/){:target="_blank"}. CRC Press.
 
-- Vasishth, S., Schad, D., Bürki, A., & Kliegl, R. (2022) [Linear Mixed Models in Linguistics and Psychology: A Comprehensive Introduction](https://vasishth.github.io/Freq_CogSci/){:target="_blank"}.
+- Vasishth, S., Schad, D., Bürki, A., & Kliegl, R. (2022) [*Linear Mixed Models in Linguistics and Psychology: A Comprehensive Introduction*](https://vasishth.github.io/Freq_CogSci/){:target="_blank"}.
 
 
 #### Tutorials 
