@@ -22,8 +22,8 @@ redirect_from:
 
 
 ## Education
-- **Doctorate in Linguistics**, Federal University of Rio Grande do Sul, Porto Alegre - Brazil, 2016
-  - Title: Imigração, Atrito e Complexidade: a produção das oclusivas surdas iniciais do inglês e do português por brasileiros residentes em Londre
+- **Doctorate in Linguistics**, Federal University of Rio Grande do Sul (Porto Alegre - Brazil) & University College London (London - UK), 2016
+  - Title: Imigração, Atrito e Complexidade: a produção das oclusivas surdas iniciais do inglês e do português por brasileiros residentes em Londres
 - **MA in Linguistics**, Federal University of Santa Maria, Santa Maria - Brazil, 2011
   - Title: Opacidade Fonológica: uma solução via Teoria da Otimidade Conexionista para um problema cartesiano
 - **BA in Language Sciencese**, University of Nottingham, Nottingham - England, 2008
