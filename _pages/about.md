@@ -14,7 +14,7 @@ Full professor (with tenure) of English and Theoretical and Experimental Psychol
 
 Professor at [Programa de Pós-Graduação em Letras (PPGLET)](https://www.ufrgs.br/ppgletras/){:target="_blank"}, Universidade Federal do Rio Grande do Sul, Brazil, and at [Programa de Pós-Graduação em Língua e Cultura (PPGLinC)](http://www.ppglinc.ufba.br/){:target="_blank"}, Universidade Federal da Bahia, Brazil.
 
-Co-leader of The Observatory of Speech in Complexity (UFRGS) and Director of the [Speech Sciences Laboratory (LaFALA-UFBA)](http://lafala-ufba.github.io){:target="_blank"} and the Center for Bilingualism and Complexity Studies.
+Co-leader of the [**Observatory of Speech in Complexity** (UFRGS)](https://osf.io/t4ew9/){:target="_blank"} and Director of the [**Speech Sciences Laboratory** (LaFALA-UFBA)](http://lafala-ufba.github.io){:target="_blank"} and the Center for Bilingualism and Complexity Studies.
 
 I currently lecture courses in *English* and in *Theoretical, Experimental and Social Psycholinguistics*. My studies currently address the adaptability (development and attrition/drift) of native and nonnative speech perception and production over lifespan. By drawing on theories and methodologies from Complex Dynamic Systems Theory, Experimental and Social Psycholinguistics, Laboratory Phonology, Experimental Phonetics and Sociophonetics, my research aims to investigate L2 phonological development and/or its impact on L1 speech production and perception. I am interested in **Lab. Phonology, Acoustic Phonetics and Bilingualism in general**. I am also engaged in studying **Language Teaching *(orality and pronunciation)***.
 
