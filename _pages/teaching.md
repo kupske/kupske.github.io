@@ -5,17 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-#UNDER CONSTRUCTION
+## Teaching
+
+## Current Projects
 ### Undergraduate courses
 
 ### Graduate courses
 
 
-
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 -->
