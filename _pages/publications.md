@@ -52,7 +52,12 @@ Almeida, A. A., Batista, A., **Kupske, F. F.**, & Zoghbi, D. (Orgs.). (2020). [L
 
 #### Selected Journal Publications
 
-- Lima Jr., R., Alves, U. K., Silveira, R., **Kupske, F. F.**, Kluge, D. (Forthcoming). [A Teoria de Sistemas Dinâmicos Complexos e o desenvolvimento sonoro de línguas não nativas: implicações para a pesquisa e o ensino.] 
+- Perozzo, R. V., & **Kupske, F. F.** (Forthcoming). [From the fortress of ideas to the house of cards of certainties:
+an epistemological essay on natural sciences and linguistics in modernity and postmodernity].
+
+-  **Kupske, F. F.**, & Perozzo, R. V. (Forthcoming). [Efeitos multidirecionais da instrução explícita de pronúncia: o desenvolvimento de VOT longo em inglês (L2) e sua influência nas oclusivas do português brasileiro (L1)](https://doi.org/10.31219/osf.io/kubc6){:target="_blank"}. Ilha do Desterro.
+
+- Lima Jr., R., Alves, U. K., Silveira, R., **Kupske, F. F.**, Kluge, D. (2024). [A Teoria de Sistemas Dinâmicos Complexos e o desenvolvimento sonoro de línguas não nativas: implicações para a pesquisa e o ensino.](https://revista.abralin.org/index.php/abralin/article/view/2253){:target="_blank"}. Revista da Abralin, 23(1),p. 1-27. DOI: 10.25189/rabralin.v23i1.2253
   
 - **Kupske, F. F.**, Lima Jr., R., & Alves, U. K. (2023). [A comparison between Full Time Equivalent and Length of Residence as measurements of time in bilingual speech research: the case of first language attrition](https://periodicos.ufsc.br/index.php/desterro/article/view/94531){:target="_blank"}. Ilha do Desterro, 76(3), p. 177-198. DOI: 10.5007/2175-8026.2023.e94531.
   
