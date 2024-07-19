@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching and Projects"
 permalink: /teaching/
 author_profile: true
 ---
 
-UNDER CONSTRUCTION
+#UNDER CONSTRUCTION
 ### Undergraduate courses
 
 ### Graduate courses
