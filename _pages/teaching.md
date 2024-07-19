@@ -8,7 +8,7 @@ author_profile: true
 ## Research projects
 ### Current projects
 - Embodied Phonology (2022~present)
--- In this project
+* In this project
 - First language attrition and speech perception (2023~present)
 - Pronunciation teaching im the Global South (2023~present)
 - Audio-visual perception and L2 development (2024~present)
