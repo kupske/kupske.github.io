@@ -8,7 +8,7 @@ author_profile: true
 ## Current research projects
 ### (2022~present) *Embodied cognition, body asthetics and L2 Phonology* 
   
-**Projeto Registrado (Compesq-Letras, UFRGS)** Embodied cognition theory posits that cognitive processes are influenced by sensory and motor experiences, including body aesthetics — how individuals perceive and evaluate our own bodies and bodily actions and those of others (Kupske, 2024). In this project, I aim at investigating the role of embodiment and body aesthetics in L2 speech perception, processing and development. 
+*[Projeto Registrado (Compesq-Letras, UFRGS)]* Embodied cognition theory posits that cognitive processes are influenced by sensory and motor experiences, including body aesthetics — how individuals perceive and evaluate our own bodies and bodily actions and those of others (Kupske, 2024). In this project, I aim at investigating the role of embodiment and body aesthetics in L2 speech perception, processing and development. 
 
 ### (2023~present) *First language attrition and speech perception*
 
