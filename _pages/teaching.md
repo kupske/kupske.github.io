@@ -20,7 +20,7 @@ Integrating embodied cognition and decolonial perspectives into L2 speaking and 
 
 *[Projeto Registrado (Compesq-Letras, UFRGS)]* In the area of first ​​language attrition (FLA), studies that attempt to elucidate phonetic-phonological issues are the most scarce. Phonetic-phonological attrition is, therefore, a small area when compared to others (e.g., lexicon or syntax) and represents a scientific gap to be filled. Furthermore, the few studies on Brazilian phonetic-phonological attrition only focus on speech production without considering perception. Thus, in light of Complex Dynamic Systems Theory (CDST), based on Laboratory Phonology, this project seeks to investigate the dynamics of speech perception in the development of English-L2 and, with special attention, in the attrition of BP-L1.
 
---> Subproject: **(2023~2024)Creating perception tasks**: PIBIC-UFGRS.
+--> Subproject: **(2023~2024) Creating perception tasks**: PIBIC-UFGRS, Grant total: R$ 8.400,00.
 
 # Past projects
 
