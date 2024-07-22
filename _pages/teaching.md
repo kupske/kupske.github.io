@@ -7,16 +7,15 @@ author_profile: true
 
 ## Research projects
 ### Current projects
-- (2022~present) *Embodied L2 Phonology* 
+- (2022~present) *Embodied cognition, body asthetics and L2 Phonology* 
   
- In this project, I aim at investigating the role of embodiment and bodily aesthetics in L2 speech development. 
- 
-- (2023~present) *First language attrition and speech perception*
+**Projeto Registrado (Compesq-Letras, UFRGS)** Embodied cognition theory posits that cognitive processes are influenced by sensory and motor experiences, including body aesthetics — how individuals perceive and evaluate our own bodies and bodily actions and those of others (Kupske, 2024). In this project, I aim at investigating the role of embodiment and body aesthetics in L2 speech perception, processing and development. 
 
+- (2023~present) *First language attrition and speech perception*
 
 **Projeto Registrado (Compesq-Letras, UFRGS)** In the area of first ​​language attrition (FLA), studies that attempt to elucidate phonetic-phonological issues are the most scarce. Phonetic-phonological attrition is, therefore, a small area when compared to others (e.g., lexicon or syntax) and represents a scientific gap to be filled. Furthermore, the few studies on Brazilian phonetic-phonological attrition only focus on speech production without considering perception. Thus, in light of Complex Dynamic Systems Theory (CDST), based on Laboratory Phonology, this project seeks to investigate the dynamics of speech perception in the development of English-L2 and, with special attention, in the attrition of BP-L1.
 
-- (2023~present) *Pronunciation teaching im the Global South* 
+- (2023~present) *Pronunciation teaching in the Global South* 
   
 - (2024~present) *Audio-visual perception and L2 development*  
 
