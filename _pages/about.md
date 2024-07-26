@@ -13,7 +13,7 @@ redirect_from:
 
 Full professor (with tenure) of English and Theoretical and Experimental Psycholinguistics at [Universidade Federal do Rio Grande do Sul](https://www.ufrgs.br){:target="_blank"}, Brazil.
 
-<img align="left" src="/images/obs.png" width="140" height="140">
+<img align="left" src="/images/obs1.png" width="140" height="140">
 
 Professor at [Programa de Pós-Graduação em Letras (PPGLET)](https://www.ufrgs.br/ppgletras/){:target="_blank"}, Universidade Federal do Rio Grande do Sul, Brazil, and at [Programa de Pós-Graduação em Língua e Cultura (PPGLinC)](http://www.ppglinc.ufba.br/){:target="_blank"}, Universidade Federal da Bahia, Brazil.
 
