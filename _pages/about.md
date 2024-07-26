@@ -10,7 +10,7 @@ redirect_from:
 
 <a href="http://lattes.cnpq.br/5896539533884923" target="_blank"><img src="/images/lattes.png" width="50" height="50"></a><a href="https://www.researchgate.net/profile/Felipe-Kupske" target="_blank"><img src="/images/rg.png" width="46" height="46"></a><a href="https://www.zotero.org/kupske" target="_blank"><img src="/images/zotero.png" width="50" height="50"></a><a href="osf.io/rabw7" target="_blank"><img src="/images/osf.png" width="50" height="50"></a>
 
-<img align="left" src="/images/obs.png" width="120" height="120">
+<img align="left" src="/images/obs.png" width="140" height="140">
 Full professor (with tenure) of English and Theoretical and Experimental Psycholinguistics at [Universidade Federal do Rio Grande do Sul](https://www.ufrgs.br){:target="_blank"}, Brazil.
 
 Professor at [Programa de Pós-Graduação em Letras (PPGLET)](https://www.ufrgs.br/ppgletras/){:target="_blank"}, Universidade Federal do Rio Grande do Sul, Brazil, and at [Programa de Pós-Graduação em Língua e Cultura (PPGLinC)](http://www.ppglinc.ufba.br/){:target="_blank"}, Universidade Federal da Bahia, Brazil.
