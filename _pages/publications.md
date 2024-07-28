@@ -11,6 +11,8 @@ author_profile: true
 
 #### Books
 
+Post, A. S., Conceição, C., & **Kupske, F. F.** (Eds.) (*In Press*). [Ensino e aprendizagem de pronúncia e formação de professores de línguas não nativas: debates e perspectivas](https://editora.abralin.org/){:target="_blank"} *(Pronunciation teaching and learning and non-native language teacher training: debates and perspectives)*, Campinas-SP: Editora da Abralin.
+
 <img align="left" src="/images/livro2021c.png" width="120" height="120" alt="Kupske et al. (2021)">
 <br/>
 **Kupske, F. F.**, Alves, U. K., & Lima Jr., R . M. (Eds.) (2021). [Investigando os sons de línguas não nativas: uma introdução](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"} *(Investigating the sounds of non-native languages: an introduction)*, Campinas-SP: Editora da Abralin. DOI: 10.25189/9788568990117. ISBN: 978-85-68990-11-7.
