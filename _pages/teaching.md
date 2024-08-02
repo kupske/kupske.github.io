@@ -10,7 +10,7 @@ author_profile: true
   
 *[Projeto Registrado (Compesq-Letras, UFRGS)]* Embodied cognition theory posits that cognitive processes are influenced by sensory and motor experiences, including body aesthetics — how individuals perceive and evaluate their own bodies and bodily actions and those of others (Kupske, 2024). On this note, this project aims at investigating the role of embodiment and body aesthetics in L2 speech perception, processing and development. 
 
---> Subproject (a): **(2024~present) Body aesthetics and L2 speech perception**: L2 speech perception involves complex interactions among auditory, visual, and social cues. In this sence, this 1-year research project aims at investigating the role of body aesthetics (race, gender, gender identity, and sexual orientation) in L2 speech perception (intelligibility, comprehensibility and degree of accent), contributing to our understanding of multimodal and multidimensional processing in L2 speech perception. PIBIC-UFGRS, Grant total: R$ 8.400,00.
+--> Subproject (a): **(2024~present) Body aesthetics and L2 speech perception**: L2 speech perception involves complex interactions among auditory, visual, and social cues. In this sence, this 1-year research project aims at investigating the role of body aesthetics (race, gender, gender identity, and sexual orientation) in L2 speech perception (intelligibility, comprehensibility and degree of accent), contributing to our understanding of multimodal and multidimensional processing in L2 speech perception. PIBIC-UFGRS, Grant total: R$ 8.400,00. **Team:** Dr. Felipe Flores Kupske; Laura Beatriz Wermuth.  
 
 ## (2023~present) Teaching Pronunciation and Speaking in the Global South 
 
