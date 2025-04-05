@@ -16,11 +16,13 @@ author_profile: true
 Post, A. S., Conceição, C., & **Kupske, F. F.** (Eds.) (2024). [Pronunciation teaching and
 teacher training](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente/){:target="_blank"}, Campinas-SP: Editora da Abralin.
 <br/>
+<br/>
 
 <img align="left" src="/images/livro2021c.png" width="120" height="120" alt="Kupske et al. (2021)">
 <br/>
 **Kupske, F. F.**, Alves, U. K., & Lima Jr., R . M. (Eds.) (2021). [Investigando os sons de línguas não nativas: uma introdução](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"} *(Investigating the sounds of non-native languages: an introduction)*, Campinas-SP: Editora da Abralin. DOI: 10.25189/9788568990117. ISBN: 978-85-68990-11-7.
 <br clear="left"/>
+<br/>
 
 <img align="left" src="/images/livro2021b.png" width="120" height="120" alt="Kupske et al. (2021)">
 <br/>
@@ -32,9 +34,9 @@ Almeida, A. A., Batista, A., **Kupske, F. F.**, & Zoghbi, D. (Orgs.). (2020). [L
 <br/>
 #### Book Chapters
 
-- **Kupske, F. F.**, & Lima Jr. (2024). [*Pronunciation teaching in the epistemological south: dynamic spaces in teacher training*](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente). Post, A. S., Conceição, C., & **Kupske, F. F.** (Eds.) (2024). [Pronunciation teaching and teacher training](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente/){:target="_blank"}, Campinas-SP: Editora da Abralin, v. 1, p. 250-274.
+- **Kupske, F. F.**, & Lima Jr. (2024). [*Pronunciation teaching in the epistemological south: dynamic spaces in teacher training*](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente). Post, A. S., Conceição, C., & **Kupske, F. F.** (Eds.) (2024). [Pronunciation teaching and teacher training](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente/), Campinas-SP: Editora da Abralin, v. 1, p. 250-274.
 
-- **Kupske, F. F.**, & Lima Jr. (2024). [*Ensino de pronúncia ao sul epistemológico: espaços dinâmicos na formação docente*](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente). Post, A. S., Conceição, C., & **Kupske, F. F.** (Eds.) (2024). [Pronunciation teaching and teacher training](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente/){:target="_blank"}, Campinas-SP: Editora da Abralin, v. 1, p. 54-79. 
+- **Kupske, F. F.**, & Lima Jr. (2024). [*Ensino de pronúncia ao sul epistemológico: espaços dinâmicos na formação docente*](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente). Post, A. S., Conceição, C., & **Kupske, F. F.** (Eds.) (2024). [Pronunciation teaching and teacher training](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente/), Campinas-SP: Editora da Abralin, v. 1, p. 54-79. 
 
 - **Kupske, F. F.** (2023). [*Dez obras para conhecer Fonética*](https://edufba.ufba.br/livros-publicados/catalogo/linguagem-e-sexualidade-perspectivas-do-seculo-xxi). In: D. S. Carvalho; J. Cyrino (Orgs.). GuiaLET: Guia de Leitura do Instituto de Letras. 1 ed. Salvador: Edufba, 2023, v. 1, p. 161-176.
 
