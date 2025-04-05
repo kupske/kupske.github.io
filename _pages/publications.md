@@ -36,13 +36,13 @@ Almeida, A. A., Batista, A., **Kupske, F. F.**, & Zoghbi, D. (Orgs.). (2020). [L
 <br/>
 #### Book Chapters
 
-- **Kupske, F. F.**, & Lima Jr. (2024). [*Pronunciation teaching in the epistemological south: dynamic spaces in teacher training*](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente){:target="\_blank"}. Post, A. S., Conceição, C., & **Kupske, F. F.** (Eds.) (2024). Pronunciation teaching and teacher training, Campinas-SP: Editora da Abralin, v. 1, p. 250-274.
+- **Kupske, F. F.**, & Lima Jr. (2024). [*Pronunciation teaching in the epistemological south: dynamic spaces in teacher training*](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente){:target="\_blank"}. Post, A. S., Conceição, C., & **Kupske, F. F.** (Eds.). Pronunciation teaching and teacher training, Campinas-SP: Editora da Abralin, v. 1, p. 250-274.
 
-- **Kupske, F. F.**, & Lima Jr. (2024). [*Ensino de pronúncia ao sul epistemológico: espaços dinâmicos na formação docente*](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente){:target="\_blank"}. Post, A. S., Conceição, C., & **Kupske, F. F.** (Eds.) (2024). Pronunciation teaching and teacher training, Campinas-SP: Editora da Abralin, v. 1, p. 54-79. 
+- **Kupske, F. F.**, & Lima Jr. (2024). [*Ensino de pronúncia ao sul epistemológico: espaços dinâmicos na formação docente*](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente){:target="\_blank"}. Post, A. S., Conceição, C., & **Kupske, F. F.** (Eds.). Pronunciation teaching and teacher training, Campinas-SP: Editora da Abralin, v. 1, p. 54-79. 
 
-- **Kupske, F. F.** (2023). [*Dez obras para conhecer Fonética*](https://edufba.ufba.br/livros-publicados/catalogo/linguagem-e-sexualidade-perspectivas-do-seculo-xxi){:target="\_blank"}. In: D. S. Carvalho; J. Cyrino (Orgs.). GuiaLET: Guia de Leitura do Instituto de Letras. 1 ed. Salvador: Edufba, 2023, v. 1, p. 161-176.
+- **Kupske, F. F.** (2023). [*Dez obras para conhecer Fonética*](https://edufba.ufba.br/livros-publicados/catalogo/linguagem-e-sexualidade-perspectivas-do-seculo-xxi){:target="\_blank"}. In: D. S. Carvalho; J. Cyrino (Orgs.). GuiaLET: Guia de Leitura do Instituto de Letras. 1 ed. Salvador: Edufba, v. 1, p. 161-176.
 
-- **Kupske, F. F.** (2022). [*Fonologia Corporificada: integração e atrito linguístico na fala de imigrantes brasileiras no Reino Unido*](https://edufba.ufba.br/livros-publicados/catalogo/linguagem-e-sexualidade-perspectivas-do-seculo-xxi){:target="\_blank"}. In: D. S. Carvalho; Pedro Eduardo de Lima. (Org.). língua(gem) e sexualidade: perspectivas do século XXI. 1ed.Salvador: Edufba, 2022, v. 1, p. 95-120.
+- **Kupske, F. F.** (2022). [*Fonologia Corporificada: integração e atrito linguístico na fala de imigrantes brasileiras no Reino Unido*](https://edufba.ufba.br/livros-publicados/catalogo/linguagem-e-sexualidade-perspectivas-do-seculo-xxi){:target="\_blank"}. In: D. S. Carvalho; Pedro Eduardo de Lima. (Org.). língua(gem) e sexualidade: perspectivas do século XXI. 1ed.Salvador: Edufba, v. 1, p. 95-120.
 
 - **Kupske, F. F.** (2021). [*Atrito Linguístico*](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="\_blank"}. In F. F. Kupske, U. K. Alves, & R. Lima Jr. (Orgs.), Investigando os sons de línguas não nativas: Uma introdução (p. 99–128). Editora da Abralin. https://doi.org/10.25189/9788568990117
 
@@ -69,7 +69,9 @@ Almeida, A. A., Batista, A., **Kupske, F. F.**, & Zoghbi, D. (Orgs.). (2020). [L
 - Perozzo, R. V., & **Kupske, F. F.** (Forthcoming). [From the fortress of ideas to the house of cards of certainties:
 an epistemological essay on natural sciences and linguistics in modernity and postmodernity].
 
--  **Kupske, F. F.**, & Perozzo, R. V. (Forthcoming). [Efeitos multidirecionais da instrução explícita de pronúncia: o desenvolvimento de VOT longo em inglês (L2) e sua influência nas oclusivas do português brasileiro (L1)](https://doi.org/10.31219/osf.io/kubc6){:target="_blank"}. Ilha do Desterro.
+-  **Kupske, F. F.**, & Perozzo, R. V. (2024). [Efeitos multidirecionais da instrução explícita de pronúncia: o desenvolvimento de VOT longo em inglês (L2) e sua influência nas oclusivas do português brasileiro (L1)](http://dx.doi.org/10.5007/2175-8026.2024.e99369){:target="_blank"}. Ilha do Desterro, v. 77, p. 1/e99369-23.
+
+- Perozzo, R. V., & **Kupske, F. F.** (2024). [Percepção fônica não nativa e ensino de línguas: amalgamando fonologia e práticas pedagógicas](http://dx.doi.org/10.5380/rvx.v19i3.94564){:target="_blank"}. REVISTA X, v. 19, p. 941-972.
 
 - Lima Jr., R., Alves, U. K., Silveira, R., **Kupske, F. F.**, Kluge, D. (2024). [A Teoria de Sistemas Dinâmicos Complexos e o desenvolvimento sonoro de línguas não nativas: implicações para a pesquisa e o ensino.](https://revista.abralin.org/index.php/abralin/article/view/2253){:target="_blank"}. Revista da Abralin, 23(1),p. 1-27. DOI: 10.25189/rabralin.v23i1.2253
   
