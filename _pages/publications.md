@@ -15,6 +15,7 @@ author_profile: true
 <br/>
 Post, A. S., Conceição, C., & **Kupske, F. F.** (Eds.) (2024). [Pronunciation teaching and
 teacher training](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente/){:target="_blank"}, Campinas-SP: Editora da Abralin.
+<br/>
 
 <img align="left" src="/images/livro2021c.png" width="120" height="120" alt="Kupske et al. (2021)">
 <br/>
