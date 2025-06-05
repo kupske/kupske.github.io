@@ -67,8 +67,7 @@ Almeida, A. A., Batista, A., **Kupske, F. F.**, & Zoghbi, D. (Orgs.). (2020). [L
 
 #### Selected Journal Publications
 
-- Perozzo, R. V., & **Kupske, F. F.** (Forthcoming). [From the fortress of ideas to the house of cards of certainties:
-an epistemological essay on natural sciences and linguistics in modernity and postmodernity].
+- Perozzo, R. V., & **Kupske, F. F.** (2025). [From the fortress of ideas to the house of cards of certainties: an epistemological essay on natural sciences and linguistics in modernity and postmodernity](https://periodicos.ufmg.br/index.php/relin/article/view/58783){:target="_blank"} Revista de Estudos da Linguagem, v. 32, n. 4, p.? .
 
 -  **Kupske, F. F.**, & Perozzo, R. V. (2024). [Efeitos multidirecionais da instrução explícita de pronúncia: o desenvolvimento de VOT longo em inglês (L2) e sua influência nas oclusivas do português brasileiro (L1)](http://dx.doi.org/10.5007/2175-8026.2024.e99369){:target="_blank"}. Ilha do Desterro, v. 77, p. 1/e99369-23.
 
