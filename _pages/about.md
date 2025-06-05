@@ -21,8 +21,11 @@ I am interested in supervising studies in the above areas at Doctorate, Masterâ€
 
 # Highlights:
 
-<img align="left" src="/images/icla5.png">
-
+<p align="center">
+  <a href="https://https://languageattrition.org/" target="_blank">
+    <img src="/images/icla5.png" alt="ICLA Logo">
+  </a>
+</p>
 <br /><br /><br /><br /><br />
 <br /><br />
 
