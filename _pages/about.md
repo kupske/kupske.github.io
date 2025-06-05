@@ -26,24 +26,19 @@ I am interested in supervising studies in the above areas at Doctorate, Master�
 <br /><br /><br /><br /><br />
 <br /><br />
 
-<img align="right" src="/images/livro2024.png" width="120" height="120" alt="Kupske et al. (2024)">
+<img align="right" src="/images/livro2024.png" width="120" height="120" alt="Kupske et al. (2021)">
 Book available. 
 <br />
-Post, A., Conceição, C., & <strong>Kupske, F. F.</strong> (Eds.) (2024). 
-<a href="https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente/" target="_blank">
-Pronunciation teaching and teacher training
-</a>, Campinas-SP: Editora da Abralin.
-<br clear="right"/>
 
-<br /><br />
+Post, A., Conceição, C., & **Kupske, F. F.** (Eds.) (2024). [Pronunciation teaching and teacher training](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente/){:target="_blank"}, Campinas-SP: Editora da Abralin.
+<br clear="right"/>
+<br />
 
 <img align="right" src="/images/livro2021.png" width="120" height="120" alt="Kupske et al. (2021)">
-Book available.
+Book available. 
 <br />
-<strong>Kupske, F. F.</strong>, Alves, U. K., & Lima Jr., R. M. (Eds.) (2021). 
-<a href="https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/" target="_blank">
-Investigando os sons de línguas não nativas: uma introdução
-</a> *(Investigating the sounds of non-native languages: an introduction)*, Campinas-SP: Editora da Abralin.
+
+**Kupske, F. F.**, Alves, U. K., & Lima Jr., R . M. (Eds.) (2021). [Investigando os sons de línguas não nativas: uma introdução](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"} *(Investigating the sounds of non-native languages: an introduction)*, Campinas-SP: Editora da Abralin.
 <br clear="right"/>
 
 
