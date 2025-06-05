@@ -21,9 +21,10 @@ I am interested in supervising studies in the above areas at Doctorate, Masterâ€
 
 # Highlights:
 
-<img align="right" src="/images/icla5.png" width="120">
-<br />
+<img align="left" src="/images/icla5.png" width="200">
 
+<br />
+<br />
 
 
 <img align="right" src="/images/livro2024.png" width="120" height="120" alt="Kupske et al. (2021)">
