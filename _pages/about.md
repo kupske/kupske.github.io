@@ -25,8 +25,8 @@ I am interested in supervising studies in the above areas at Doctorate, Masterâ€
 
 <br />
 <br />
-
-
+<br />
+<br />
 <br />
 <img align="right" src="/images/livro2024.png" width="120" height="120" alt="Kupske et al. (2021)">
 Book available. 
