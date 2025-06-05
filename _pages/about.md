@@ -21,12 +21,9 @@ I am interested in supervising studies in the above areas at Doctorate, Master�
 
 # Highlights:
 
-<img align="right" src="/images/icla5.png" width="120" height="120">
+<img align="right" src="/images/icla5.png" width="120">
 <br />
 
-Post, A., Conceição, C., & **Kupske, F. F.** (Eds.) (2024). [Pronunciation teaching and teacher training](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente/){:target="_blank"}, Campinas-SP: Editora da Abralin.
-<br clear="right"/>
-<br />
 
 
 <img align="right" src="/images/livro2024.png" width="120" height="120" alt="Kupske et al. (2021)">
