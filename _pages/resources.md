@@ -73,7 +73,7 @@ The *Reading list for Undergraduates* and
   
 - Ronaldo Lima Jr. and Guilherme Garcia's [Introduction to Regression Models for Linguists] (2020)
 
-[Playlist](https://www.youtube.com/playlist?list=PL3Qku9eEGkK1TF274nuIva85i4RaeIvOw){:target="_blank"} with the recordings of all sessions
+[Playlist](https://www.youtube.com/playlist?list=PL3Qku9eEGkK1TF274nuIva85i4RaeIvOw){:target="_blank"} with the recordings of teaching sessions by Dr. Ronaldo Lima Jr. (His materials are in the next link)
 [Course material](https://www.dropbox.com/sh/h6w3qmoygq9hirf/AADxyv5YgrEO_0JJJaH4ZRhEa?dl=0){:target="_blank"} - slides, R scripts and datasets
 
 - Lívia Oushiro's [Introdução à Estatística para Linguistas](https://rpubs.com/oushiro/iel){:target="_blank"}
