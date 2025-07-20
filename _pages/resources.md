@@ -54,6 +54,8 @@ The *Reading list for Undergraduates* and
   
 ### Quatitative data analysis for linguists
 
+- Christensen, R. (2024) [*A Tutorial on fitting Cumulative Link Mixed Models with clmm2 from the ordinal Package*](https://cran.r-project.org/web/packages/ordinal/vignettes/clmm2_tutorial.pdf){:target="_blank"}.
+
 - Oushiro, L. (2022). [*Introdução à estatística para linguistas*](https://editora.abralin.org/publicacoes/introducao-a-estatistica-para-linguistas/){:target="_blank"}. Editora da Abralin.
 
 - Roback, P., & Legler, J. (2021). [*Beyond Multiple Linear Regression*](https://bookdown.org/roback/bookdown-BeyondMLR/){:target="_blank"}. CRC Press.
