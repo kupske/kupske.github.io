@@ -47,7 +47,7 @@ The *Reading list for Undergraduates* and
 
 ### Data vizualization for linguists
 
-- **Kupske, F. F.** (2023) [*Visualização de dados com R (ggplot2)*](https://drive.google.com/file/d/1FjlWxEUmTJLsbqvkXh9u7X2o3dufJ8iD/view?usp=sharing){:target="_blank"}. Universidade Federal do Rio Grande do Sul.
+- **Kupske, F. F.** (2025) [*Visualização de dados com R (ggplot2)*](https://drive.google.com/file/d/1NKgvz0EGU-hYc2XQ-9yGiNtXuAhX8HOh/view?usp=sharing){:target="_blank"}. Universidade Federal do Rio Grande do Sul.
   
 - **Kupske, F. F.** [*Criação de mapas com R (tmap)*](https://drive.google.com/file/d/1KgqDNQ_DaFXQPuYfAyUjzqjxIddt9gUP/view?usp=sharing){:target="_blank"}. Universidade Federal do Rio Grande do Sul.
   
