@@ -27,6 +27,14 @@ I am interested in supervising studies in the above areas at Doctorate, Master�
   </a>
 </p>
 
+<img align="right" src="/images/livro2025.png" width="120" height="120" alt="Kupske et al. (2025)">
+Book available. 
+<br />
+
+**Kupske, F. F.**, Perozzo, R. V., & Arêas da Luz Fontes, A. (Eds.) (2025). [Bilinguismo: um manual introdutório](https://editora.abralin.org/publicacoes/bilinguismo-2/){:target="_blank"}, Campinas-SP: Editora da Abralin.
+<br clear="right"/>
+<br />
+
 <img align="right" src="/images/livro2024.png" width="120" height="120" alt="Kupske et al. (2021)">
 Book available. 
 <br />
