@@ -11,15 +11,15 @@ author_profile: true
 
 #### Books
 
-<img align="left" src="/images/livro2025.png" width="120" height="120" alt="Kupske et al. (2021)">
+<img align="left" src="/images/livro2025.png" width="120" height="120" alt="Kupske et al. (2025)">
 <br/>
-**Kupske, F. F.**, Perozzo, R. V., ARÊAS DA LUZ FONTES,  (Eds.) (2025). [Bilinguismo: um manual introdutório](https://editora.abralin.org/publicacoes/bilinguismo-2/){:target="_blank"}, Campinas-SP: Editora da Abralin.
+**Kupske, F. F.**, Perozzo, R. V., & Arêas da Luz Fontes, A. (Eds.) (2025). [Bilinguismo: um manual introdutório](https://editora.abralin.org/publicacoes/bilinguismo-2/){:target="_blank"}, Campinas-SP: Editora da Abralin.
 <br/>
 <br/>
 <br/>
 <br/>
 
-<img align="left" src="/images/livro2024.png" width="120" height="120" alt="Kupske et al. (2021)">
+<img align="left" src="/images/livro2024.png" width="120" height="120" alt="Post et al. (2024)">
 <br/>
 Post, A. S., Conceição, C., & **Kupske, F. F.** (Eds.) (2024). [Pronunciation teaching and
 teacher training](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente/){:target="_blank"}, Campinas-SP: Editora da Abralin.
@@ -35,7 +35,7 @@ teacher training](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-
 <br/>
 <br/>
 
-<img align="left" src="/images/livro2021b.png" width="120" height="120" alt="Kupske et al. (2021)">
+<img align="left" src="/images/livro2021b.png" width="120" height="120" alt="Almeida et al. (2021)">
 <br/>
 Almeida, A. A., Batista, A., **Kupske, F. F.**, & Zoghbi, D. (Orgs.). (2020). [Língua em movimento: Estudos em linguagem e interação](https://repositorio.ufba.br/handle/ri/32459){:target="_blank"} (1a ed, Vol. 2). Salvador, EDUFBA. 
 <br/>
@@ -45,6 +45,12 @@ Almeida, A. A., Batista, A., **Kupske, F. F.**, & Zoghbi, D. (Orgs.). (2020). [L
 <br/>
 #### Book Chapters
 
+ - **Kupske, F. F.**, Perozzo, R. V., & Arêas da Luz Fontes, A. (Eds.) (2025). [*De Raridade à Nova Norma A Expansão do Bilinguismo e o Papel deste Manual*](https://editora.abralin.org/publicacoes/bilinguismo-2/){:target="\_blank"}. **Kupske, F. F.**, Perozzo, R. V., Arêas da Luz Fontes, A. (Eds.). Bilinguismo: um manual introdutório, Campinas-SP: Editora da Abralin, v. 1, p. 12-22.
+
+ - Perozzo, R. V., **Kupske, F. F.**. (Eds.) (2025). [*Bilinguismo e Percepção dos Sons da Fala*](https://editora.abralin.org/publicacoes/bilinguismo-2/){:target="\_blank"}. **Kupske, F. F.**, Perozzo, R. V., Arêas da Luz Fontes, A. (Eds.). Bilinguismo: um manual introdutório, Campinas-SP: Editora da Abralin, v. 1, p. 23-41.
+
+ - **Kupske, F. F.**, & Perozzo, R. V. (Eds.) (2025). [*Análise Acústica Aplicada à Pesquisa em Bilinguismo*](https://editora.abralin.org/publicacoes/bilinguismo-2/){:target="\_blank"}. **Kupske, F. F.**, Perozzo, R. V., Arêas da Luz Fontes, A. (Eds.). Bilinguismo: um manual introdutório, Campinas-SP: Editora da Abralin, v. 1, p. 322-343.
+   
 - **Kupske, F. F.**, & Lima Jr. (2024). [*Pronunciation teaching in the epistemological south: dynamic spaces in teacher training*](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente){:target="\_blank"}. Post, A. S., Conceição, C., & **Kupske, F. F.** (Eds.). Pronunciation teaching and teacher training, Campinas-SP: Editora da Abralin, v. 1, p. 250-274.
 
 - **Kupske, F. F.**, & Lima Jr. (2024). [*Ensino de pronúncia ao sul epistemológico: espaços dinâmicos na formação docente*](https://editora.abralin.org/publicacoes/ensino-de-pronuncia-e-formacao-docente){:target="\_blank"}. Post, A. S., Conceição, C., & **Kupske, F. F.** (Eds.). Pronunciation teaching and teacher training, Campinas-SP: Editora da Abralin, v. 1, p. 54-79. 
@@ -74,6 +80,11 @@ Almeida, A. A., Batista, A., **Kupske, F. F.**, & Zoghbi, D. (Orgs.). (2020). [L
 - **Kupske, F. F.**, & Ferreira-Gonçalves (2011).[Revisitando a opacidade fonológica em português: uma abordagem via Teoria da Otimidade Conexionista]. In: Giovana Ferreira-Gonçalves; Mirian Rose Brum-de-Paula; Márcia Keske-Soares. (Org.). Estudos em Aquisição Fonológica. 1ed.Pelotas: Ed. da UFPEL, 2011, v. 4, p. 73-107.
 
 #### Selected Journal Publications
+
+
+- **Kupske, F. F.**, ZOrzi, L. (2025). [Human and LLM accent rating of English-L2 speech by Brazilian speakers](https://osf.io/preprints/psyarxiv/q9cj6_v1){:target="_blank"}. Preprint.
+
+- Trein, A. D., Alves, U. A., & **Kupske, F. F.**, Gauer, L. T.  (2025). [Desenvolvimento, por aprendizes brasileiros, do padrão de pre-fortis clipping de inglês-L2: um estudo de processo via Teoria dos Sistemas Dinâmicos Complexos](https://osf.io/preprints/psyarxiv/wqhdn_v3){:target="_blank"}. Preprint.
 
 - Perozzo, R. V., & **Kupske, F. F.** (2025). [From the fortress of ideas to the house of cards of certainties: an epistemological essay on natural sciences and linguistics in modernity and postmodernity](https://periodicos.ufmg.br/index.php/relin/article/view/58783){:target="_blank"} Revista de Estudos da Linguagem, v. 32, n. 4, p.? .
 
