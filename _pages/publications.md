@@ -47,7 +47,7 @@ Almeida, A. A., Batista, A., **Kupske, F. F.**, & Zoghbi, D. (Orgs.). (2020). [L
 
  - **Kupske, F. F.**, Perozzo, R. V., & Arêas da Luz Fontes, A. (Eds.) (2025). [*De Raridade à Nova Norma A Expansão do Bilinguismo e o Papel deste Manual*](https://editora.abralin.org/publicacoes/bilinguismo-2/){:target="\_blank"}. **Kupske, F. F.**, Perozzo, R. V., Arêas da Luz Fontes, A. (Eds.). Bilinguismo: um manual introdutório, Campinas-SP: Editora da Abralin, v. 1, p. 12-22.
 
- - Perozzo, R. V., **Kupske, F. F.**. (Eds.) (2025). [*Bilinguismo e Percepção dos Sons da Fala*](https://editora.abralin.org/publicacoes/bilinguismo-2/){:target="\_blank"}. **Kupske, F. F.**, Perozzo, R. V., Arêas da Luz Fontes, A. (Eds.). Bilinguismo: um manual introdutório, Campinas-SP: Editora da Abralin, v. 1, p. 23-41.
+ - Perozzo, R. V., **Kupske, F. F.** (Eds.) (2025). [*Bilinguismo e Percepção dos Sons da Fala*](https://editora.abralin.org/publicacoes/bilinguismo-2/){:target="\_blank"}. **Kupske, F. F.**, Perozzo, R. V., Arêas da Luz Fontes, A. (Eds.). Bilinguismo: um manual introdutório, Campinas-SP: Editora da Abralin, v. 1, p. 23-41.
 
  - **Kupske, F. F.**, & Perozzo, R. V. (Eds.) (2025). [*Análise Acústica Aplicada à Pesquisa em Bilinguismo*](https://editora.abralin.org/publicacoes/bilinguismo-2/){:target="\_blank"}. **Kupske, F. F.**, Perozzo, R. V., Arêas da Luz Fontes, A. (Eds.). Bilinguismo: um manual introdutório, Campinas-SP: Editora da Abralin, v. 1, p. 322-343.
    
@@ -86,7 +86,7 @@ Almeida, A. A., Batista, A., **Kupske, F. F.**, & Zoghbi, D. (Orgs.). (2020). [L
 
 - Trein, A. D., Alves, U. A., & **Kupske, F. F.**, Gauer, L. T.  (2025). [Desenvolvimento, por aprendizes brasileiros, do padrão de pre-fortis clipping de inglês-L2: um estudo de processo via Teoria dos Sistemas Dinâmicos Complexos](https://osf.io/preprints/psyarxiv/wqhdn_v3){:target="_blank"}. Preprint.
 
-- Perozzo, R. V., & **Kupske, F. F.** (2025). [From the fortress of ideas to the house of cards of certainties: an epistemological essay on natural sciences and linguistics in modernity and postmodernity](https://periodicos.ufmg.br/index.php/relin/article/view/58783){:target="_blank"} Revista de Estudos da Linguagem, v. 32, n. 4, p.? .
+- Perozzo, R. V., & **Kupske, F. F.** (2025). [From the fortress of ideas to the house of cards of certainties: an epistemological essay on natural sciences and linguistics in modernity and postmodernity](https://periodicos.ufmg.br/index.php/relin/article/view/58783){:target="_blank"} Revista de Estudos da Linguagem, v. 32, n. 4, p.x.
 
 -  **Kupske, F. F.**, & Perozzo, R. V. (2024). [Efeitos multidirecionais da instrução explícita de pronúncia: o desenvolvimento de VOT longo em inglês (L2) e sua influência nas oclusivas do português brasileiro (L1)](http://dx.doi.org/10.5007/2175-8026.2024.e99369){:target="_blank"}. Ilha do Desterro, v. 77, p. 1/e99369-23.
 
