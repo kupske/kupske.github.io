@@ -11,6 +11,14 @@ author_profile: true
 
 #### Books
 
+<img align="left" src="/images/livro2025.png" width="120" height="120" alt="Kupske et al. (2021)">
+<br/>
+**Kupske, F. F.**, Perozzo, R. V., ARÊAS DA LUZ FONTES,  (Eds.) (2025). [Bilinguismo: um manual introdutório](https://editora.abralin.org/publicacoes/bilinguismo-2/){:target="_blank"}, Campinas-SP: Editora da Abralin.
+<br/>
+<br/>
+<br/>
+<br/>
+
 <img align="left" src="/images/livro2024.png" width="120" height="120" alt="Kupske et al. (2021)">
 <br/>
 Post, A. S., Conceição, C., & **Kupske, F. F.** (Eds.) (2024). [Pronunciation teaching and
