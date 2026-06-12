@@ -47,9 +47,9 @@ The *Reading list for Undergraduates* and
 
 ### Data vizualization for linguists
 
-- **Kupske, F. F.** (2025)  [*Cumulative link models — clm & clmm (para análise de variáveis dependetes ordinais)*](https://drive.google.com/file/d/135TDaeNDXL7zoFmfDeagMYNwobO2mtWn/view?usp=sharing){:target="_blank"}. Universidade Federal do Rio Grande do Sul.
+- **Kupske, F. F.** (2026)  [*Cumulative link models — clm & clmm (para análise de variáveis dependetes ordinais)*](https://doi.org/10.31234/osf.io/sbph5_v1){:target="_blank"}. Universidade Federal do Rio Grande do Sul. doi: 10.31234/osf.io/sbph5_v1
   
-- **Kupske, F. F.** (2025) [*Visualização de dados com R (ggplot2)*](https://drive.google.com/file/d/1NKgvz0EGU-hYc2XQ-9yGiNtXuAhX8HOh/view?usp=sharing){:target="_blank"}. Universidade Federal do Rio Grande do Sul.
+- **Kupske, F. F.** (2025) [*Visualização de dados com R (ggplot2)*](https://drive.google.com/file/d/1NKgvz0EGU-hYc2XQ-9yGiNtXuAhX8HOh/view?usp=sharing){:target="_blank"}. [[Material didático]. Universidade Federal do Rio Grande do Sul. 
   
 - **Kupske, F. F.** (2023) [*Criação de mapas com R (tmap)*](https://drive.google.com/file/d/1KgqDNQ_DaFXQPuYfAyUjzqjxIddt9gUP/view?usp=sharing){:target="_blank"}. Universidade Federal do Rio Grande do Sul.
   
