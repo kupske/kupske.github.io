@@ -45,13 +45,13 @@ The *Reading list for Undergraduates* and
 
 - Lima Jr., R., Alves, U. K, & **Kupske, F. F.** (2021). [*Introdução a pesquisas de sons não nativos*](https://editora.abralin.org/publicacoes/investigando-os-sons-de-linguas-nao-nativas/){:target="_blank"}. In F. F. Kupske, U. K. Alves, & R. Lima Jr. (Orgs.), Investigando os sons de línguas não nativas: Uma introdução (p. 15–40). Editora da Abralin. https://doi.org/10.25189/9788568990117
 
-### Data vizualization for linguists
+### My tutorials
 
 - **Kupske, F. F.** (2026)  [*Cumulative link models — clm & clmm (para análise de variáveis dependetes ordinais)*](https://doi.org/10.31234/osf.io/sbph5_v1){:target="_blank"}. Universidade Federal do Rio Grande do Sul. doi: 10.31234/osf.io/sbph5_v1
   
-- **Kupske, F. F.** (2025) [*Visualização de dados com R (ggplot2)*](https://drive.google.com/file/d/1NKgvz0EGU-hYc2XQ-9yGiNtXuAhX8HOh/view?usp=sharing){:target="_blank"}. [[Material didático]. Universidade Federal do Rio Grande do Sul. 
+- **Kupske, F. F.** (2026) [*Visualização de dados com R (ggplot2)*](https://doi.org/10.31234/osf.io/mxnhz_v1){:target="_blank"}. [[Material didático]. Universidade Federal do Rio Grande do Sul. doi: https://doi.org/10.31234/osf.io/mxnhz_v1
   
-- **Kupske, F. F.** (2023) [*Criação de mapas com R (tmap)*](https://drive.google.com/file/d/1KgqDNQ_DaFXQPuYfAyUjzqjxIddt9gUP/view?usp=sharing){:target="_blank"}. Universidade Federal do Rio Grande do Sul.
+- **Kupske, F. F.** (2026) [*Criação de mapas com R (tmap)*](https://doi.org/10.31234/osf.io/r94b7_v2){:target="_blank"}. Universidade Federal do Rio Grande do Sul. doi: https://doi.org/10.31234/osf.io/r94b7_v2
   
   
 ### Quatitative data analysis for linguists
